@@ -2,15 +2,16 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 169 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 185 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
-## 1 场景主题(10 条)
+## 1 场景主题(11 条)
 
 
-### 1.1 室内与居所场景(7)
+### 1.1 室内与居所场景(8)
 
 - **#33 卧室肖像模板（非露骨基础款）** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注
+- **#38 把卧室当片场设计** — [VideoAny Blog](https://videoany.io/blog/posts/nsfw-ai-bedroom-scene-generator) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.5
 - **#102 bath / steam 浴室蒸汽场景** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bath) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#114 Jio7 分类库：卧室/氛围场景词频** — [Hugging Face Jio7/danbooru-tags-classified (MIT)](https://huggingface.co/datasets/Jio7/danbooru-tags-classified) · 标签表/词频 · 许可标注:MIT
 - **#143 成人向场景：先布置房间（四个房间配方）** — [Fellowi Blog（NSFW 场景布置）](https://fellowi.com/blog/nsfw-ai-scenes-and-settings) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.5
@@ -27,7 +28,7 @@
 - **#523 成人向淋浴场景搭建：玻璃隔间+瓷砖+流水+轻雾+水珠，按“主体与水流→玻璃瓷砖→蒸汽水珠”顺序写，背光穿雾** — [aiimagegeneratornsfw How to Make Shower NSFW AI Scenes (2026)](https://aiimagegeneratornsfw.com/how-to-make-shower-nsfw-ai-scenes-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.5
 - **#704 成人向雨天私房：雨窗当作巨大柔光箱，人坐在窗边扶手椅、毯子与热茶营造私密感；用雨痕窗做剪影与倒影，后期暗部加一点蓝、高光加一点暖、略降饱和** — [Boudoir Guru](https://boudoir.guru/rainy-day-boudoir-photography-inspirations/) · 实测 · 许可标注:未标注
 
-## 2 景别构图(33 条)
+## 2 景别构图(36 条)
 
 
 ### 2.1 景别与取景(4)
@@ -37,14 +38,16 @@
 - **#315 内衣编辑风的取景：局部特写/镜中/躺椅/走动** — [APOB AI 40 AI Lingerie Model Prompts（取景）](https://apob.ai/blog/ai-lingerie-prompts/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4
 - **#376 闺房取景按体型：身体斜 30–60°，躺姿镜头略高、站姿略低，大胆裁切** — [Tov Studio Photo Boudoir Posing Library](https://tovstudiophoto.com/boudoir-posing-library/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、6.3
 
-### 2.2 机位与视角(11)
+### 2.2 机位与视角(13)
 
 - **#34 第一人称 POV 控制（Illustrious LoRA 经验）** — [Civitai (Female POV LoRA)](https://civitai.com/models/1460002/female-pov-1st-person-point-of-view) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.4
+- **#141 成人向机位清单：机位高度/景别/镜头词** — [Fellowi Blog（NSFW 姿势与机位）](https://fellowi.com/blog/nsfw-ai-poses-and-camera-angles) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1、2.3
 - **#178 POV 床景系标签：pov across bed / bed invitation** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（主観POV）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#199 成人向机位：用空间描述代替术语** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 - **#200 正俯拍躺姿：一定要写头发摆放** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Birds Eye View）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.3
 - **#201 过肩回眸与特写：写明哪边肩、哪只眼合焦** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Over-the-Shoulder / Close-Up）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注
 - **#289 景别×角度要同向：亲密/强势/坦率的组合表** — [AI Image Generator NSFW Camera Angle Prompts 2026](https://aiimagegeneratornsfw.com/nsfw-ai-camera-angle-prompts-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1
+- **#337 私密人像的机位：俯拍更含蓄，平视最容易变“偷窥感”** — [The Phoblographer Change Your Angle for Better Intimate Portraits](https://www.thephoblographer.com/2022/05/20/change-your-angle-for-better-intimate-portraits-sensual-vs-sexual/) · 教程/文章 · 许可标注:未标注
 - **#447 成人向闺房机位与焦段：俯拍柔化、仰拍拉长、背后拍曲线，广角夸张、长焦精致** — [808 Studio Eros Boudoir Photography Poses（Angles & Lens）](https://www.808studioeros.com/blog/boudoir-photography-poses-a-complete-guide-to-stunning-stylish-amp-sensual-boudoir-imagery) · 教程/文章 · 许可标注:未标注
 - **#558 成人向浴缸私房场景：空间小就靠“慢而松弛”的姿势；俯拍与贴水面低机位两种视角、水波与倒影做层次、可转黑白** — [Boudoir Inspiration: The Art of Bathtub Boudoir](https://www.boudoirinspiration.com/the-art-of-bathtub-boudoir-capturing-sensual-water-portraits) · 教程/文章 · 许可标注:未标注
 - **#659 成人向地板私房姿势：仰躺拱背（肩与臀贴地、胸口上提）、侧躺一臂上举上腿弯曲、撑肘侧躺、俯卧；机位贴地平拍或从高处俯拍，用肘、膝、颈线做出三角形** — [Format / Fstoppers / Shutterbug](https://www.format.com/magazine/resources/photography/boudoir-poses) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.3
@@ -72,9 +75,10 @@
 - **#692 成人向局部人体的后期构图：裁切进曲线、旋转画面直到“看不出是哪个部位”，转黑白强调形状与流动；高调版改用亮背景与柔光，适合想要抽象而不太私密的效果** — [Ed Verosky](https://edverosky.com/how-to-do-bodyscape-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1
 - **#716 成人向“减法”构图：让半暗决定看不见什么——低角度掠射光扫过锁骨、颈后和肩线，手放前景，超浅景深只对焦嘴唇，用床单和剪影暗示形体而不描述细节** — [Insight Adv](https://insightadv.it/en/blog/light-that-hides-how-to-photograph-intimacy-by-candlelight) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
-### 2.5 镜中与反射(3)
+### 2.5 镜中与反射(4)
 
 - **#205 镜子构图实测：化妆镜最稳，全身镜易多出一人** — [Kawaii Prompt Lab（Mirror Reflection Composition Test）](https://kawaiipromptlab.com/en/tips/mirror-reflection-composition-test/) · 实测 · 许可标注:未标注
+- **#420 成人向镜面构图五式：只拍镜中像最稳，自拍要写手机高度，雾镜擦出一条** — [Fellowi Blog Mirror Shots in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-mirror-and-reflection-shots) · 教程/文章 · 许可标注:未标注
 - **#618 成人向私房镜面构图：镜头、镜子、人物之间保持 30–45°，别正对镜子；梳妆台从背后 45° 拍、过肩回望经镜子看镜头、床边地镜上仰** — [Tov Studio Photo](https://tovstudiophoto.com/boudoir-posing-mirrors-silhouettes/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.3
 - **#619 成人向镜面私房布光：主灯放在人和镜子之间、与脸成 45°，大柔光源让本体与倒影都读得清；倒影略暗反而增加纵深；f/4–f/8 让两者都清晰** — [Boudoir Inspiration / Tov Studio Photo](https://www.boudoirinspiration.com/the-secrets-to-perfect-mirror-reflection-lighting-in-boudoir) · 教程/文章 · 许可标注:未标注
 
@@ -98,12 +102,13 @@
 
 - **#176 covered xx 反效果与“遮挡”写法** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（ネガティブ・手で隠す）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 
-## 4 服装专项(21 条)
+## 4 服装专项(29 条)
 
 
-### 4.1 日常服饰与款式词典(1)
+### 4.1 日常服饰与款式词典(2)
 
 - **#417 成人向万圣节扮装：人物句不变、服装写成材质与部件、场景另起一句** — [Fellowi Blog NSFW AI Halloween Costumes](https://fellowi.com/blog/nsfw-ai-halloween-costume-characters) · 教程/文章 · 许可标注:未标注
+- **#424 过膝袜绝对领域：thighhighs 比 knee-high socks 更接近“ニーソ”，加 zettai ryouiki / skindentation** — [Mania AI ニーソックスを生成する呪文まとめ](https://mania.romptn.com/article/stable-diffusion/5593/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2
 
 ### 4.2 面料与材质(5)
 
@@ -113,35 +118,42 @@
 - **#484 成人向服装面料词典：丝缎、蕾丝、天鹅绒、薄纱、针织、皮革各自的写法与翻车点；一套衣服只用一种面料** — [Fellowi NSFW AI Outfits and Fabrics](https://fellowi.com/blog/nsfw-ai-outfits-and-fabrics) · 实测 · 许可标注:未标注
 - **#621 成人向布料垂褶与纱帘：雪纺、缎、绉缎柔软成褶，塔夫绸与丝绒更厚重；布料可做遮挡、引导视线、做取景框、加前景虚化与动感** — [Boudoir by Ben Marcum / Boudoir Inspiration](https://boudoirbybenmarcum.com/what-to-wear-for-boudoir-portraits-beautiful-draped-fabric/) · 教程/文章 · 许可标注:未标注
 
-### 4.3 穿着状态与穿脱(5)
+### 4.3 穿着状态与穿脱(6)
 
 - **#25 服装“状态”轴：把静态穿搭变成具体瞬间** — [PROMPT ABYSS](https://promptabyss.com/lingerie-prompt-master-guide/) · 教程/文章 · 许可标注:未标注
 - **#95 衣物开合与掀起：open shirt / shirt lift / clothes down** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/shirt_lift) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#103 n714 透视/湿身类服装词** — [GitHub n714/stable-diffusion-prompt-library-zh_CN (MIT)](https://github.com/n714/stable-diffusion-prompt-library-zh_CN) · 仓库 · 许可标注:MIT · 次要子分类:3.1
 - **#105 tag-skill：半遮半掩与服装“降级”梯度** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:4.7
 - **#112 ffdkj 热度榜：衣物状态/露出类标签** — [GitHub ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table (MIT；数值为 2026-10-24 抓取的 post_count)](https://github.com/ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table) · 标签表/词频 · 许可标注:MIT · 次要子分类:4.7
+- **#358 浴巾/床单遮挡要写“厚、不透明、包到哪里”，并在负面排除透和滑落** — [OpenNana Awesome Prompt Gallery (无明确许可，仅摘要+短语)](https://opennana.com/awesome-prompt-gallery/morning-woman-towel-reaching-out-portrait) · 教程/文章 · 许可标注:无明确许可(仅摘要/链接) · 次要子分类:3.1、18.2
 
-### 4.4 内衣睡衣与闺房风(5)
+### 4.4 内衣睡衣与闺房风(8)
 
+- **#41 非露骨闺房人像：不透明服装+柔光** — [SpicyFrame](https://spicyframeai.com/guides/ai-boudoir-photo-planning) · 教程/文章 · 许可标注:未标注
 - **#99 内衣睡衣类：lingerie / negligee / garter straps** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/garter_straps) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
+- **#115 Jio7 分类库：内衣/泳装类服装词频** — [Hugging Face Jio7/danbooru-tags-classified (MIT)](https://huggingface.co/datasets/Jio7/danbooru-tags-classified) · 标签表/词频 · 许可标注:MIT · 次要子分类:4.5
 - **#314 内衣编辑风：颜色+材质+外搭的组合与通用质量词** — [APOB AI 40 AI Lingerie Model Prompts](https://apob.ai/blog/ai-lingerie-prompts/) · 教程/文章 · 许可标注:未标注
 - **#356 闺房风提示词六要素与配色词表** — [aiofm.info Boudoir Prompts Guide (无明确许可，仅摘要+短语)](https://aiofm.info/en/guides/boudoir-prompts-guide) · 教程/文章 · 许可标注:无明确许可(仅摘要/链接)
 - **#357 闺房风要避开的五件事：直视镜头、影棚闪光、高调光、泛称内衣、摆拍感** — [aiofm.info Boudoir Prompts Guide (无明确许可，仅摘要+短语)](https://aiofm.info/en/guides/boudoir-prompts-guide) · 教程/文章 · 许可标注:无明确许可(仅摘要/链接)
 - **#399 闺房服装：纯色胜过花纹，材质决定“内衣”还是“lingerie”，男式衬衫和浴袍好用** — [MyPhotoAI Boudoir Photo Ideas（Outfits）](https://myphotoai.io/boudoir-photo-ideas/) · 教程/文章 · 许可标注:未标注
+- **#444 成人向闺房人像六原则：屈肢成三角、手要有事做、只留暗示、唇形定情绪、风吹发配低机位** — [iPhotography Boudoir Photography: 6 Posing Tips and Settings](https://www.iphotography.com/blog/boudoir-photography-tutorial/) · 教程/文章 · 许可标注:未标注 · 次要子分类:7.5
 
-### 4.5 泳装(1)
+### 4.5 泳装(2)
 
 - **#249 泳装五段公式 + 面料张力/水珠/焦散** — [VidGen（AI Swimwear Prompt Guide）](https://vidgenerator.ai/blog/ai-swimwear-prompt-guide) · 教程/文章 · 许可标注:未标注
+- **#250 比基尼提示词八步迭代：哪一步真正提升质量** — [Kawaii Prompt Lab（Improving a Beach Bikini Prompt in 8 Steps）](https://kawaiipromptlab.com/en/tips/prompt-iteration-bikini/) · 教程/文章 · 许可标注:未标注
 
-### 4.6 服装提示公式与选择顺序(1)
+### 4.6 服装提示公式与选择顺序(2)
 
 - **#24 服装提示三轴框架：款式×面料颜色×状态** — [PROMPT ABYSS](https://promptabyss.com/lingerie-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2、4.3
+- **#204 Pin-up 五槽模板：机位→服装→场景→光与镜头→只改一槽** — [Picasso IA（NSFW Prompt Template for Pin-Up Art）](https://picassoia.com/en/nsfw/nsfw-prompt-template-for-pinup-art) · 教程/文章 · 许可标注:未标注 · 次要子分类:15.1
 
-### 4.7 露出程度与半遮边界(3)
+### 4.7 露出程度与半遮边界(4)
 
 - **#94 裸穿类服装标签：naked shirt / towel / apron** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/naked_apron) · 社区维基 · 许可标注:无明确许可(仅摘要/链接) · 次要子分类:4.3
 - **#96 sideboob / underboob / cleavage 的边界定义** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/underboob) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
+- **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
 ## 5 光影氛围(36 条)
 
@@ -197,11 +209,12 @@
 - **#641 成人向投影/图案光私房：暗房 + 中性或深色背景，把几何纹、花叶影、水波纹投到身体上；让曲线落在图案里、用身体挡住部分投影制造明暗交错；主光与图案光分开，图案只做纹理** — [Boudoir Inspiration](https://www.boudoirinspiration.com/how-to-use-projection-lighting-to-elevate-your-boudoir-photography) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#702 成人向黑白私房：先决定是柔和低反差的高调还是强方向光的低调；转黑白要看“灰阶分离”而不是颜色差——服装和背景在彩色里不同，转灰后可能糊成一片，质感、光泽和图案比颜色更重要** — [Kelly Tareski Photography](https://kellytareskiphotography.com/the-black-and-white-boudoir-photography-style/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、5.5
 
-## 6 姿势动作(28 条)
+## 6 姿势动作(30 条)
 
 
-### 6.1 站立与全身姿态(9)
+### 6.1 站立与全身姿态(10)
 
+- **#203 成人向复古 Pinup：魅力光 + 俏皮姿势 + 年代造型** — [AI Image Generator NSFW（How to Make Pinup NSFW AI Art 2026）](https://aiimagegeneratornsfw.com/how-to-make-pinup-nsfw-ai-art-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6、8.3
 - **#339 闺房姿势五原则与五个经典姿势** — [Believe in Boudoir The Art of Posing in Sensual Boudoir](https://blog.believeinboudoir.com/intro-to-posing-for-boudoir/) · 教程/文章 · 许可标注:未标注
 - **#398 闺房姿势精选：床沿后仰回看、俯卧撑肘、床沿前倾、跪姿回眸、白床单包裹** — [MyPhotoAI Boudoir Photo Ideas（Twelve poses）](https://myphotoai.io/boudoir-photo-ideas/) · 教程/文章 · 许可标注:未标注
 - **#448 成人向闺房姿势分类：站/坐/躺（仰、俯）/背后回眸/特写局部，各配服装与道具** — [808 Studio Eros Boudoir Photography Poses（Pose Categories）](https://www.808studioeros.com/blog/boudoir-photography-poses-a-complete-guide-to-stunning-stylish-amp-sensual-boudoir-imagery) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.3
@@ -228,8 +241,9 @@
 - **#759 成人向“脊背上的阴影”烛光俯卧私房：房间全黑、一侧画框外成簇的茶蜡且离人很近；沿床长方向俯卧，双前臂撑起抬胸、肘在肩下、肩胛向下收；床单平顺地搭在腰窝或聚在腰间；脚踝交叉、小腿翘起，脖子向前伸而不是后仰** — [Boudoir Central](https://boudoircentral.com/looks/cat-079) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、6.7
 - **#774 成人向“吊带裙侧卧曲线”私房：黄金时刻低角度窗光从侧面或侧后方打来、关掉室内灯；侧卧并用下方前臂撑起上身让肋骨离开床面，髋部上下叠齐、上方膝盖前移、下方腿伸长，留出腰与髋之间的凹线；空着的手放在腹部、腰线或头发上，拉长脖子** — [Boudoir Central / Boudoir Photography Club](https://boudoircentral.com/looks/cat-004) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、6.7
 
-### 6.5 手部与手势(1)
+### 6.5 手部与手势(2)
 
+- **#419 成人向角色图的手：五种症状与修法，双人只留一个接触点** — [Fellowi Blog Hands in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-hands-and-gestures) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.6
 - **#726 成人向私房手部摆放：只用指尖触碰衣物和身体、手指微卷不平贴、用“动作”带出手（把头发拨到耳后、手指沿颈部滑下）、小指一侧对镜头、左右不对称；把手藏起来反而最有暗示性** — [Couture Boudoir](https://www.coutureboudoir.com/boudoir-tips-for-photographers-posing-hands/) · 教程/文章 · 许可标注:未标注
 
 ### 6.6 双人与多人互动(2)
@@ -293,13 +307,15 @@
 
 - **#144 成人向场景道具：三件而非三十件** — [Fellowi Blog（NSFW 场景布置・道具）](https://fellowi.com/blog/nsfw-ai-scenes-and-settings) · 教程/文章 · 许可标注:未标注
 
-## 15 提示词结构与技巧(8 条)
+## 15 提示词结构与技巧(10 条)
 
 
-### 15.1 整体结构与顺序(4)
+### 15.1 整体结构与顺序(6)
 
+- **#173 成人向提示词六层结构与“一机位一主光一动作”** — [Chat18GPT Blog（NSFW AI Image Prompts）](https://www.chat18gpt.com/blog/nsfw-ai-image-prompt-guide) · 教程/文章 · 许可标注:未标注
 - **#230 标签引擎的八段顺序（成人向平台指南）** — [Xotic AI Image Prompting Guide](https://www.xotic.ai/docs/image-generation/prompting-guide) · 教程/文章 · 许可标注:未标注
 - **#251 性感图七段公式：把“性感”翻译成可见的选择** — [BytePlus Lumina（How to Write Sexy AI Image Prompts）](https://ai.byteplus.com/lumina/en/resource/how-to-write-sexy-ai-image-prompts) · 教程/文章 · 许可标注:未标注
+- **#313 成人向五行简报：主体/服装/机位/光/只写真正的排除项** — [Lumi Arts NSFW AI Prompt Guide](https://lumiarts.ink/blog/nsfw-ai-prompt-guide) · 教程/文章 · 许可标注:未标注
 - **#340 成套闺房图的“循序”结构与具体动作指令** — [SendPhoto Boudoir Photography: Consent, Posing and Delivery](https://sendphoto.io/blog/boudoir-photography-professional) · 教程/文章 · 许可标注:未标注
 - **#377 成人向人像提示词六项公式与“含蓄”手法** — [media.io Gemini AI Boudoir Photo Prompt Guide](https://www.media.io/ai-prompts/gemini-ai-boudoir-photo-prompt.html) · 教程/文章 · 许可标注:未标注
 
@@ -316,6 +332,24 @@
 - **#44 成人向姿势标签表（资源线索）** — [note.com 月ヶ瀬そら](https://note.com/sora_tsukigase/n/n9500741037fd) · 资源线索 · 许可标注:未标注 · 次要子分类:6.8
 - **#89 Jio7 requiring.txt：服装前置依赖表** — [Hugging Face Jio7/danbooru-tags-classified (MIT)](https://huggingface.co/datasets/Jio7/danbooru-tags-classified) · 标签表/词频 · 许可标注:MIT · 次要子分类:4.3
 
+## 16 多角色与互动语法(1 条)
+
+
+### 16.2 区域分配与重叠处理(1)
+
+- **#422 成人向角色的皮肤细节：越大越模糊越稳，雀斑写密度与区域、痣/疤绑定地标** — [Fellowi Blog Tattoos, Freckles and Scars in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-tattoos-and-skin-details) · 实测 · 许可标注:未标注
+
+## 17 模型特性与参数(2 条)
+
+
+### 17.1 NovelAI 特性(1)
+
+- **#32 NovelAI 质量头与权重克制** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:15.2、18.1
+
+### 17.2 Illustrious/NoobAI/Anima 特性(1)
+
+- **#42 NoobAI XL（v-pred/eps）设置要点** — [Lewdly Blog](https://lewdly.ai/blog/noobai-xl-checkpoint-review-anime-nsfw) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.3
+
 ## 18 质量与负面词(4 条)
 
 
@@ -328,3 +362,19 @@
 ### 18.3 分级与尺度标签(1)
 
 - **#175 分级标签 general / sensitive / nsfw / explicit 的控制** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（レーティング）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注
+
+## 19 年龄与体型锚点(4 条)
+
+
+### 19.1 成年角色锚点(1)
+
+- **#229 体型提示的“成年地板”：mature female 必写＋负面成人块** — [PROMPT ABYSS Body Physique Prompt Master Guide](https://promptabyss.com/body-physique-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
+
+### 19.2 体型词汇(2)
+
+- **#228 成人体型词汇：一个主体型＋至多两个辅助特征** — [AI Image Generator NSFW Body Type Prompts 2026](https://aiimagegeneratornsfw.com/nsfw-ai-body-type-prompts-2026/) · 教程/文章 · 许可标注:未标注
+- **#269 体型尺寸词：叠加形容词有效，罩杯与数字无效** — [Kawaii Prompt Lab（Breast Size Ultimate Guide）](https://kawaiipromptlab.com/en/tips/breast-size-ultimate-guide/) · 实测 · 许可标注:未标注
+
+### 19.3 创作边界与安全清单(1)
+
+- **#39 成人向创作的边界清单（同意/排除动作/分发）** — [VideoAny Blog](https://videoany.io/blog/posts/nsfw-ai-bedroom-scene-generator) · 教程/文章 · 许可标注:未标注
