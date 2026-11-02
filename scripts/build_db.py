@@ -50,7 +50,8 @@ def main():
         for c in r['subcat_secondary']: db.execute('insert or ignore into ref_subcat values(?,?,0)',(r['id'],c))
         n+=1
     counts['collected_refs']=n; n=0
-    for r in rows(f'{d}/prompts_n714.jsonl.gz'):
+    for p in sorted(glob.glob(f'{d}/prompts_n714*.jsonl.gz')):
+      for r in rows(p):
         db.execute('insert into prompts_n714 values(?,?,?,?,?,?,?,?)',(r['id'],r['category_no'],r['topic'],r['prompt_text'],r['description_zh'],r['is_negative'],r['origin_path'],r['source'])); n+=1
     counts['prompts_n714']=n; n=0
     for r in rows(f'{d}/entries_shuaihui.jsonl.gz'):
