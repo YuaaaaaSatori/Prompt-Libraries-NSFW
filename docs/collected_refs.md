@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 185 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 187 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(11 条)
@@ -155,10 +155,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(36 条)
+## 5 光影氛围(38 条)
 
 
-### 5.1 光源与方向(10)
+### 5.1 光源与方向(11)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -170,6 +170,7 @@
 - **#750 成人向私房的硬光与软光取舍：纱帘把直射阳光变柔、窗光不够就叠两三层；故意用直射硬光时让窗框和百叶的硬影变成引导线；人对窗 45° 加反光板补暗侧；遮光帘做低调；贵妃榻从“亮侧”拍得到宽光、从“暗侧”拍得到低调** — [Amateur Photographer (Magdalena Sienicka / Tianna Jarrett-Williams)](https://amateurphotographer.com/technique/expert_advice/essential-guide-to-lighting-for-boudoir-photography-and-setting-up-a-studio/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6
 - **#766 成人向“窗台坐姿”私房：阴天侧窗光、其余灯全关；坐在窗台前沿而不是陷进去，重心落一侧胯，膝盖斜向画框外不对镜头；先拉长脊柱再沉肩，从胯部微前倾；手肘离肋骨一寸，手给真实的事做；下巴向前微收，呼气时按快门** — [Boudoir Central](https://boudoircentral.com/looks/cat-040) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.1、6.2
 - **#773 成人向私房的宽光与窄光（broad / short lighting）：宽光照亮离镜头近的那半边脸和身体，明亮友好但显胖、能抚平皮肤纹理；窄光照亮离镜头远的一侧，近侧落进阴影，显瘦且更戏剧；让身体转离光、脸再转回光，把不想强调的部位藏进影子** — [Behind the Shutter / Digital Photography School / Fstoppers / ExpertPhotography](https://www.behindtheshutter.com/corrective-lighting-for-boudoir-photography/) · 教程/文章 · 许可标注:未标注
+- **#781 成人向“毛衣坐姿”复古私房：明亮均匀的阴天窗光、不要直射阳光、关室内灯；坐在床沿而不是陷进床里，重心压一侧髋、膝盖转离镜头，先拉长脊柱再沉肩，从髋部微微前倾；手臂离开身体一寸、给手一个真实任务（捧杯、抓衣摆），呼气时按快门** — [Boudoir Central / Peekaboo Boudoir / Rosewood Boudoir](https://boudoircentral.com/looks/cat-094) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.2、6.5
 
 ### 5.3 室内光源与色温(6)
 
@@ -203,11 +204,12 @@
 - **#727 成人向私房一灯与三灯“三角”布光：单灯八角柔光箱放头顶前方向下倾斜，自带暗角；三灯是头顶主光加两盏斜后方灯——对着人打强调曲线与发丝，对着墙打则更柔和** — [ExpertPhotography](https://expertphotography.com/boudoir-photography-lighting) · 教程/文章 · 许可标注:未标注
 - **#740 成人向实景台灯私房布光：把床头台灯放在人物侧后方当轮廓光、逆着主光拍更戏剧；手持视频灯做集中主光时要跟着人移动并盯住鼻影别落到嘴上；补光用降档的反射闪光并加钨丝色片，否则会把屋里的光影冲平** — [Neil van Niekerk / Tangents](https://neilvn.com/tangents/lighting-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、5.3
 
-### 5.7 明暗对比与阴影(3)
+### 5.7 明暗对比与阴影(4)
 
 - **#581 成人向低调人体艺术的黑白化与排错：黑白让画面变成光影形状；双侧光易出中线暗带、仰头时锁骨与颈部糊成一团；背景加格栅点光或烟雾补中间调** — [Dr Colin Vickers: Low-Key Artistic Nude Photography Interview（黑白与排错）](https://www.colinvickers.com/digital-photography-interview-low-key-artistic-nude-photography/#bw) · 实测 · 许可标注:未标注 · 次要子分类:5.1
 - **#641 成人向投影/图案光私房：暗房 + 中性或深色背景，把几何纹、花叶影、水波纹投到身体上；让曲线落在图案里、用身体挡住部分投影制造明暗交错；主光与图案光分开，图案只做纹理** — [Boudoir Inspiration](https://www.boudoirinspiration.com/how-to-use-projection-lighting-to-elevate-your-boudoir-photography) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#702 成人向黑白私房：先决定是柔和低反差的高调还是强方向光的低调；转黑白要看“灰阶分离”而不是颜色差——服装和背景在彩色里不同，转灰后可能糊成一片，质感、光泽和图案比颜色更重要** — [Kelly Tareski Photography](https://kellytareskiphotography.com/the-black-and-white-boudoir-photography-style/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、5.5
+- **#780 成人向私房的投影图案光（projector / gobo）：暗房里用投影仪或带图案片的聚光筒把曼陀罗、百叶、树叶、鳞纹等投到身体上；投影仪放侧面、正面拍可保持纯黑背景；距离决定图案大小和锐度，只在一个平面上清晰；对侧加一盏低几档的柔光补阴影细节，让图案顺着曲线走** — [Thomas Boudoir / Boudoir Inspiration / LightSchemes / Digital Camera World](https://thomasboudoir.com/maryland-photographer/projection-photography/) · 实测 · 许可标注:未标注
 
 ## 6 姿势动作(30 条)
 
