@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 271 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 273 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(16 条)
@@ -370,13 +370,14 @@
 - **#421 成人向角色饰品：先定金属色再定单品，一主一辅并写在身体哪个位置** — [Fellowi Blog Jewelry and Accessories for Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-jewelry-and-accessories) · 教程/文章 · 许可标注:未标注
 - **#828 成人向身体链私房（body chain）：身体链是“画在皮肤上的线”——横过锁骨、腰、胯或沿后背垂下来引导视线；配拱背、转胯、屈膝让链子自然垂坠并接光，手去轻拉或勾起链子增加动感；其他首饰尽量减少，45° 主光让金属闪而不刺眼，轮廓光勾出链与曲线** — [Outfit Additions / Zasey Photo / LbFotos / Holly Douglas & Co](https://outfitadditions.com/2025/06/02/jewelry-erotic-photography-tips/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.5
 
-## 13 道具宠物(4 条)
+## 13 道具宠物(5 条)
 
 
-### 13.1 手持物(2)
+### 13.1 手持物(3)
 
 - **#561 成人向浴缸场景道具五式：泡泡（用于遮挡或强调）、椰奶牛奶浴、浴球/云母粉彩色水、带茎鲜花、切片柑橘** — [DIY Boudoir: Tips and Ideas for Bathtub Boudoir Shoots](https://www.diyboudoir.com/post/tips-and-ideas-for-bathtub-boudoir-shoots) · 实测 · 许可标注:未标注 · 次要子分类:13.4
 - **#793 成人向新娘私房（bridal boudoir）的头纱用法：头纱是最强的“新娘身份”道具——可当前景框、绕身包裹、甩动出动感、罩在脸前做朦胧面纱，或逆光拍出发光的薄纱；整体走“明亮、通透、轻盈”的浅色调（象牙白、浅蓝、淡紫、裸粉），也可配捧花、珍珠首饰、绣字浴袍和伴侣的衬衫领带** — [Fawntail Boudoir (Petra Lansky) / PhotoWhoa](https://www.fawntail.com/blog/bridal-boudoir-photoshoot-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、5.1
+- **#1153 成人向私房道具取舍：床单/亚麻、镜子、几枝鲜花、一杯咖啡、帽子、复古椅子好用；泰迪熊、心形枕、字牌、单身派对配件、满床玫瑰花瓣显廉价；每套造型最多一两件道具** — [F64 Boudoir Photography Blog](https://f-64.com/blog/boudoir-photography-props-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.5、10.4
 
 ### 13.3 食物与饮品(1)
 
@@ -430,18 +431,19 @@
 - **#422 成人向角色的皮肤细节：越大越模糊越稳，雀斑写密度与区域、痣/疤绑定地标** — [Fellowi Blog Tattoos, Freckles and Scars in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-tattoos-and-skin-details) · 实测 · 许可标注:未标注
 - **#944 成人向双人防串特征：Regional Prompter（A1111/Forge）——Active ON、Generation mode 先用 Attention（软边界，宽容）再升级 Latent（硬分割但接缝与接合处解剖错误多）、Split mode Columns（并排）/ Rows（一躺一在上、前后景）/ Matrix（分号分行、逗号分列）、Divide Ratio 1,1 或 1,2、Base Ratio 约 0.2、Use common prompt ON（BREAK 前为共享）** — [AI Image Generator NSFW (aiimagegeneratornsfw.com)](https://aiimagegeneratornsfw.com/regional-prompter-nsfw-multiple-characters-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.6、17.4
 
-## 17 模型特性与参数(6 条)
+## 17 模型特性与参数(7 条)
 
 
 ### 17.1 NovelAI 特性(1)
 
 - **#32 NovelAI 质量头与权重克制** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:15.2、18.1
 
-### 17.2 Illustrious/NoobAI/Anima 特性(3)
+### 17.2 Illustrious/NoobAI/Anima 特性(4)
 
 - **#42 NoobAI XL（v-pred/eps）设置要点** — [Lewdly Blog](https://lewdly.ai/blog/noobai-xl-checkpoint-review-anime-nsfw) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.3
 - **#1119 成人向模型选型与各自提示格式（2026-11）：写实系用自然句＋镜头光源，露骨写实专用 SDXL 微调同样用句子，Illustrious 系用 booru 标签＋adult/mature female，Pony 系必须 score 前缀并用 rating_* 控制尺度** — [OpenUncensored](https://openuncensored.com/blog/best-nsfw-image-models) · 实测 · 许可标注:未标注
 - **#1140 成人向提示的三种“方言”：Pony/Illustrious/NoobAI 用 booru 标签（CLIP，77 token 分块、靠前更重），Flux/SD3.5 用自然句（T5），写实 SDXL 融合模型用混合写法；Flux 蒸馏版负面无效，正向写 no X 反而加强 X** — [Highluz](https://highluz.com/nsfw-prompts-guide/) · 教程/文章 · 许可标注:未标注
+- **#1154 成人向本地模型选型要看“底座架构”：Juggernaut XL（SDXL 写实）、WAI-Illustrious v17（动漫）、CyberRealistic（SD1.5 低显存）、Pony V6（LoRA 生态）、Pony V7（AuraFlow，V6 LoRA 不通用）、Z-Image Turbo NSFW、Chroma（Apache 2.0）；“无审查”不等于无许可限制** — [Offline Creator Blog](https://offlinecreator.com/blog/best-uncensored-ai-models-civitai-2026) · 教程/文章 · 许可标注:未标注
 
 ### 17.3 采样参数与画幅(1)
 
