@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 273 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 275 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(16 条)
@@ -197,7 +197,7 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(50 条)
+## 5 光影氛围(51 条)
 
 
 ### 5.1 光源与方向(20)
@@ -256,7 +256,7 @@
 - **#740 成人向实景台灯私房布光：把床头台灯放在人物侧后方当轮廓光、逆着主光拍更戏剧；手持视频灯做集中主光时要跟着人移动并盯住鼻影别落到嘴上；补光用降档的反射闪光并加钨丝色片，否则会把屋里的光影冲平** — [Neil van Niekerk / Tangents](https://neilvn.com/tangents/lighting-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、5.3
 - **#799 成人向私房的“油光肌”质感：皮肤光泽能用高光塑形，光泽越强越能勾出曲线和肌肉；身体用婴儿油或喷雾式发油薄涂（脸部交给化妆师，别把油叠在妆上），想要水珠就在油上再喷 3:1 的水与甘油；布光用带栅格的条形柔光箱从侧后高位掠过身体边缘，而不是正面铺满；要的是细腻的光泽而不是全身反光** — [Jake Hicks Photography / Embodied Art Boudoir / LightSchemes / Steele Style Shots](https://jakehicksphotography.com/latest-techniques/2018/4/23/top-5-ways-to-achieve-shiny-skin-in-your-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.2
 
-### 5.7 明暗对比与阴影(6)
+### 5.7 明暗对比与阴影(7)
 
 - **#581 成人向低调人体艺术的黑白化与排错：黑白让画面变成光影形状；双侧光易出中线暗带、仰头时锁骨与颈部糊成一团；背景加格栅点光或烟雾补中间调** — [Dr Colin Vickers: Low-Key Artistic Nude Photography Interview（黑白与排错）](https://www.colinvickers.com/digital-photography-interview-low-key-artistic-nude-photography/#bw) · 实测 · 许可标注:未标注 · 次要子分类:5.1
 - **#641 成人向投影/图案光私房：暗房 + 中性或深色背景，把几何纹、花叶影、水波纹投到身体上；让曲线落在图案里、用身体挡住部分投影制造明暗交错；主光与图案光分开，图案只做纹理** — [Boudoir Inspiration](https://www.boudoirinspiration.com/how-to-use-projection-lighting-to-elevate-your-boudoir-photography) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
@@ -264,6 +264,7 @@
 - **#780 成人向私房的投影图案光（projector / gobo）：暗房里用投影仪或带图案片的聚光筒把曼陀罗、百叶、树叶、鳞纹等投到身体上；投影仪放侧面、正面拍可保持纯黑背景；距离决定图案大小和锐度，只在一个平面上清晰；对侧加一盏低几档的柔光补阴影细节，让图案顺着曲线走** — [Thomas Boudoir / Boudoir Inspiration / LightSchemes / Digital Camera World](https://thomasboudoir.com/maryland-photographer/projection-photography/) · 实测 · 许可标注:未标注
 - **#817 成人向哥特浪漫私房（gothic romance boudoir）：黑蕾丝、深色丝绒、束身衣、维多利亚式颈链和首饰，配苍白底妆、深色唇和烟熏眼；场景用华丽镜子、烛台、暗色花、厚重帷幕和老家具，道具可加乌鸦、头骨、旧书；光以明暗对比为主，可加紫、深红、冰蓝色光，后期压暗加颗粒和暗角** — [Boudoir.Guru / Boudoir Photography Club](https://boudoir.guru/embracing-shadows-a-guide-to-gothic-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:8.3
 - **#900 成人向 moody 低调私房：区别在光而不在露多少——柔光 + 深阴影、单色或低饱和、暗房；让阴影占据部分画面、柔光只塑脸和身形；暖调=舒适亲密、冷调=神秘沉思；构图不只三分法，用平衡与动势把视线引到表情；后期调色要克制，人仍要像自己** — [Boudoir Guru](https://boudoir.guru/moody-boudoir-photography-guide/) · 实测 · 许可标注:未标注 · 次要子分类:2.4
+- **#1161 成人向四种类型的光影/风格/构图配方：写实人体＝窗侧光＋柔轮廓光、古典油画＝强烈明暗对比＋单烛光、电影感闺房＝霓虹轮廓光＋钨丝灯＋雾、2D 动漫＝高调棚光＋清晰边缘高光；用 raking/low-key 代替 beautiful** — [Fxroom (fxroom.ai)](https://fxroom.ai/blog/nsfw-ai-prompts-guide) · 实测 · 许可标注:未标注
 
 ## 6 姿势动作(41 条)
 
@@ -387,7 +388,7 @@
 
 - **#144 成人向场景道具：三件而非三十件** — [Fellowi Blog（NSFW 场景布置・道具）](https://fellowi.com/blog/nsfw-ai-scenes-and-settings) · 教程/文章 · 许可标注:未标注
 
-## 15 提示词结构与技巧(14 条)
+## 15 提示词结构与技巧(15 条)
 
 
 ### 15.1 整体结构与顺序(8)
@@ -410,9 +411,10 @@
 
 - **#31 NovelAI：Danbooru 标签语法优于自然语言** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.1
 
-### 15.4 诊断与实验方法(1)
+### 15.4 诊断与实验方法(2)
 
 - **#174 成人向出图问题诊断表** — [Chat18GPT Blog（问题诊断表）](https://www.chat18gpt.com/blog/nsfw-ai-image-prompt-guide) · 教程/文章 · 许可标注:未标注
+- **#1160 成人向故障排查与去塑料感：成人生成同样按“主体/细节/场景/风格/技术框架”五槽各填一次；删掉 flawless skin、ultra smooth 等美颜词改写镜头事实；指令被忽略多是注意力问题，属性串色就逐人锚定** — [creamify.ai](https://www.creamify.ai/blog/nsfw-ai-prompt-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3、18.1
 
 ### 15.5 标签资源与分类参考(2)
 
