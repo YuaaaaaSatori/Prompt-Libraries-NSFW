@@ -2,13 +2,13 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 275 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 282 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
-## 1 场景主题(16 条)
+## 1 场景主题(17 条)
 
 
-### 1.1 室内与居所场景(9)
+### 1.1 室内与居所场景(10)
 
 - **#33 卧室肖像模板（非露骨基础款）** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注
 - **#38 把卧室当片场设计** — [VideoAny Blog](https://videoany.io/blog/posts/nsfw-ai-bedroom-scene-generator) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.5
@@ -19,6 +19,7 @@
 - **#578 成人向酒店房间私房：转角双窗房、床/浴缸/门口/阳台分区，早晨冷柔、下午暖而有杂志感** — [Boudoir Inspiration: Hotel Room Boudoir Photography Guide](https://www.boudoirinspiration.com/hotel-room-boudoir-photography-ultimate-guide) · 教程/文章 · 许可标注:未标注
 - **#579 成人向酒店私房布光与机位：留纱帘、人离窗 2–4 英尺；床上俯拍/床头侧拍/床尾广角；浴室关顶灯借卧室窗光；门缝与转角制造神秘感** — [Boudoir Inspiration: Hotel Room Boudoir Photography Guide（布光与机位）](https://www.boudoirinspiration.com/hotel-room-boudoir-photography-ultimate-guide#lighting) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#866 成人向 shabby chic 复古私房：做旧剥漆家具 + 柔软女性化织物 + 粉彩色 + 柔光——掉漆梳妆台旁堆着蕾丝与亚麻、老旧贵妃椅、毛边毯、瓶中玫瑰；场地选剥漆老宅、裸木谷仓或花园，没有就用素房间 + 几件旧家具 + 薄纱帘窗光；家具给手找地方放** — [Boudoir Guru](https://boudoir.guru/embracing-elegance-shabby-chic-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2、5.1
+- **#1188 成人向 boudoir 组图的场景法：整组只用一个房间、不同机位讲故事；按“全景交代房间→半身穿搭→手/蕾丝/窗光脸部特写”10–15 张；单侧柔光+面料名** — [KinkAI Blog（kinkai.me）](https://kinkai.me/blog/boudoir-ai-photos-without-a-photographer) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2
 
 ### 1.2 户外城市与自然场景(1)
 
@@ -39,7 +40,7 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(47 条)
+## 2 景别构图(49 条)
 
 
 ### 2.1 景别与取景(6)
@@ -51,7 +52,7 @@
 - **#855 成人向 AI 图“看着不对”的症状→原因→修法：塑料皮（删 flawless/perfect skin，改写毛孔雀斑+定向光）、手和肢体错（每只手一件事、减少接触点、拉远一点、先重抽一次）、裁切错（先选画幅再写 full-length 等景别）、脸不一致（用参考图）、出图变保守（描述可见内容而非写 nsfw/explicit 标签）、细节打架（一主体一场景一光一风格）** — [Fellowi](https://fellowi.com/blog/nsfw-ai-generation-mistakes) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.3
 - **#1126 成人向多人/情侣静帧：成败在“连接两人的动词”，用物理方位写清谁在前后上下、各朝哪、手和髋在哪；多人需更宽景别和明确机位（wide low-angle / side-on full-body）防肢体融合** — [Nureta Developer Blog](https://developer.nureta.ai/blog/couples-and-multi-subject-nsfw-images) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2
 
-### 2.2 机位与视角(19)
+### 2.2 机位与视角(20)
 
 - **#34 第一人称 POV 控制（Illustrious LoRA 经验）** — [Civitai (Female POV LoRA)](https://civitai.com/models/1460002/female-pov-1st-person-point-of-view) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.4
 - **#141 成人向机位清单：机位高度/景别/镜头词** — [Fellowi Blog（NSFW 姿势与机位）](https://fellowi.com/blog/nsfw-ai-poses-and-camera-angles) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1、2.3
@@ -72,6 +73,7 @@
 - **#1069 成人向机位当“镜头库”而不是同义词堆：按目的选——强势用仰拍/虫视、亲密用特写/POV/过肩、展示全身用全身/四分之三侧；每次只换一个机位、锁定成人角色块，全身裁脚时写 head to toe in frame, space around subject** — [HackAIGC](https://www.hackaigc.com/blog/nsfw-camera-angle-prompts-2026) · 教程/文章 · 许可标注:未标注
 - **#1105 成人向镜头与景别词各自的「副作用」：medium shot 最安全、cowboy shot 是 booru 最爱、from above 只配躺姿、pov 会多出一只手、mirror reflection 要核对镜像是否一致、24mm 贴近但会畸变、85mm 压缩五官最讨好脸** — [MadePrompt](https://madeprompt.com/x-rated-ai-lab-article/nsfw-prompt-dictionary/) · 教程/文章 · 许可标注:未标注
 - **#1146 成人向机位与景别搭配：from above 显胸线、from below 营造被俯视感（加 ceiling 角度更陡）、from side 显侧线、from behind 显背臀＋looking at viewer 回头、oblique angle 万能、POV 增强临场感；景别 full body/upper body/cowboy shot/close up 各自截到哪** — [エロ画像の作り方（ai-illustration.info）](https://ai-illustration.info/stable-diffusion-angle-prompt/) · 教程/文章 · 许可标注:未标注
+- **#1189 成人向提示词五要素（主体→姿势/动作→景别机位→光源→渲染风格），具体胜过露骨；不想要的东西用正向替代描述而非否定词，按一次加一维的方式迭代** — [Nureta Developer Blog（developer.nureta.ai）](https://developer.nureta.ai/blog/nsfw-image-prompt-guide) · 实测 · 许可标注:未标注 · 次要子分类:5.1
 
 ### 2.3 镜头焦段与景深(8)
 
@@ -84,7 +86,7 @@
 - **#775 成人向私房用纱帘与薄纱做前景层：把一片薄纱贴近镜头当柔焦滤镜、人在中景、厚帘在后，做出前中后三层；用风扇或微风让纱飘动，快门凝住或慢门拉出柔和拖影；纱帘也可框住人、遮住部分身体、给光染色** — [Boudoir Inspiration / Summerana](https://www.boudoirinspiration.com/12-ways-to-use-curtains-or-tulles-in-boudoir-photography) · 教程/文章 · 许可标注:未标注
 - **#1035 成人向 implied 拍摄的遮挡物清单：背对镜头的脊柱弧线、侧身轮廓剪影、薄纱/帷幔、长发垂落遮住躯干、植物或书本放在前景、浅景深虚掉、斜搭的裙或外套** — [PhotoWhoa](https://www.photowhoa.com/blog/implied-photoshoot/) · 教程/文章 · 许可标注:未标注
 
-### 2.4 构图法则与画幅(9)
+### 2.4 构图法则与画幅(10)
 
 - **#101 focus 焦点标签：armpit / ass / back focus** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/tag_group:focus_tags) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#111 tag-skill：head out of frame 层级裁切** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:2.1
@@ -95,6 +97,7 @@
 - **#692 成人向局部人体的后期构图：裁切进曲线、旋转画面直到“看不出是哪个部位”，转黑白强调形状与流动；高调版改用亮背景与柔光，适合想要抽象而不太私密的效果** — [Ed Verosky](https://edverosky.com/how-to-do-bodyscape-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1
 - **#716 成人向“减法”构图：让半暗决定看不见什么——低角度掠射光扫过锁骨、颈后和肩线，手放前景，超浅景深只对焦嘴唇，用床单和剪影暗示形体而不描述细节** — [Insight Adv](https://insightadv.it/en/blog/light-that-hides-how-to-photograph-intimacy-by-candlelight) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 - **#1003 暗黑/浪漫/暗示向作品靠“暗示”而非露骨：先定“暗”具体指什么（低调光、哥特建筑服装、道德冲突、悲伤执念、超自然威胁、低饱和或高反差）；成年身份必须一眼可读（成人职业、环境、比例、造型，禁校园/低龄化服装与措辞——标签修不了看起来未成年的设计）；用双向主动的肢体语言表现同意（对视、镜像姿态、彼此靠近、伸手等待回应），不把恐惧、束缚、失去意识、醉酒、权力不对等浪漫化；用服装做角色设计、用距离讲故事、用有来由的光带情绪；构图服务故事而非解剖** — [Elser AI Blog](https://www.elser.ai/blog/how-to-create-dark-romantic-or-suggestive-art-without-crossing-nsfw-boundaries) · 实测 · 许可标注:未标注
+- **#1167 成人向双人构图：左/右位置标签分别描述两位成年人再写共同动作，写清接触点与支撑点，侧面或三分之四视角比正面裁切更不易互相遮挡；每次只修一处接触关系** — [Viralkey（viralkey.ai）](https://viralkey.ai/nsfw-couple-poses) · 实测 · 许可标注:未标注 · 次要子分类:2.1、2.2
 
 ### 2.5 镜中与反射(5)
 
@@ -104,7 +107,7 @@
 - **#619 成人向镜面私房布光：主灯放在人和镜子之间、与脸成 45°，大柔光源让本体与倒影都读得清；倒影略暗反而增加纵深；f/4–f/8 让两者都清晰** — [Boudoir Inspiration / Tov Studio Photo](https://www.boudoirinspiration.com/the-secrets-to-perfect-mirror-reflection-lighting-in-boudoir) · 教程/文章 · 许可标注:未标注
 - **#912 成人向私房的椅子和镜子当道具用：正常坐椅子会折短躯干出褶，改成深陷椅中屈膝挡腹、滑到椅边弓背拉长、或半躺；镜子从肩后越过拍、只取想要的反射、大光圈让镜中像清晰而实体虚化；原则是“推向镜头的会变大，推远的会变小”** — [JG Boudoir](https://jgboudoir.com/boudoir-posing-tips/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
-## 3 裸露液体(11 条)
+## 3 裸露液体(12 条)
 
 
 ### 3.1 湿身与透视(6)
@@ -116,12 +119,13 @@
 - **#560 成人向牛奶浴实测（z-image-turbo）：milk bath 复现率很高、靠乳白不透明水自然遮挡；抹茶色透明度会下降，草莓/椰子会真的生成水果** — [かわいいプロンプト研究所: Milk Bath Prompt Experiment](https://kawaiipromptlab.com/en/tips/milk-bath-fetish-test/) · 实测 · 许可标注:未标注 · 次要子分类:3.3
 - **#1034 成人向“湿身布景”（wet set）：人站在喷了水珠的透明亚克力板后、板与人之间再喷雾当蒸汽；最后才在皮肤上抹婴儿油让水珠成粒，像刚淋过雨** — [SIZZLE.PHOTOGRAPHY](https://sizzle.photography/introducing-the-wet-set/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.3、3.2
 
-### 3.2 汗水与液体质感(4)
+### 3.2 汗水与液体质感(5)
 
 - **#98 wet / sweat / very sweaty 的程度区分** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/sweat) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#355 汗的写法实测：sweaty skin ≈ glistening with sweat，指定部位才会集中** — [Kawaii Prompt Lab 汗・汗ばむ肌プロンプト検証](https://kawaiipromptlab.com/tips/sweaty-skin-descriptor-test/) · 实测 · 许可标注:未标注
 - **#1062 成人向肌肤质感五套组合：光泽肌 glossy+shiny skin+skin highlights；汗湿 sweat+sweaty+sweat drops 叠加再加 wet skin+glistening skin；淋湿 wet+water droplets on skin+reflective skin 配霓虹；美容特写 dewy+oily skin+subsurface scattering；逆光 backlit+rim lighting+light sweat；负面统一加 matte skin** — [ねこかわ](https://nekokawa.com/post-1774153498-1/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#1111 成人向皮肤湿润分五级写：light sweat → sweating → sweaty skin → excessive sweat → dripping sweat 只选一级，再叠 glistening skin 当“倍增器”；淋浴、雨中用 wet skin；不要同时叠两个等级词，并且每个状态词都要配成年锚点** — [PROMPT ABYSS](https://promptabyss.com/body-physique-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:19.1
+- **#1181 成人向写实皮肤四杠杆（Qwen Image 3 Spicy）：毛孔细节、次表面散射光、表面状态对比（汗光/油光 vs 粗麻布）、无负面框时用正向“未修图”措辞并前置** — [Siray.AI Blog（blog.siray.ai）](https://blog.siray.ai/qwen-image-3-spicy-prompting/) · 实测 · 许可标注:未标注 · 次要子分类:18.2
 
 ### 3.3 遮挡与露出边界(1)
 
@@ -388,10 +392,10 @@
 
 - **#144 成人向场景道具：三件而非三十件** — [Fellowi Blog（NSFW 场景布置・道具）](https://fellowi.com/blog/nsfw-ai-scenes-and-settings) · 教程/文章 · 许可标注:未标注
 
-## 15 提示词结构与技巧(15 条)
+## 15 提示词结构与技巧(16 条)
 
 
-### 15.1 整体结构与顺序(8)
+### 15.1 整体结构与顺序(9)
 
 - **#173 成人向提示词六层结构与“一机位一主光一动作”** — [Chat18GPT Blog（NSFW AI Image Prompts）](https://www.chat18gpt.com/blog/nsfw-ai-image-prompt-guide) · 教程/文章 · 许可标注:未标注
 - **#230 标签引擎的八段顺序（成人向平台指南）** — [Xotic AI Image Prompting Guide](https://www.xotic.ai/docs/image-generation/prompting-guide) · 教程/文章 · 许可标注:未标注
@@ -401,6 +405,7 @@
 - **#377 成人向人像提示词六项公式与“含蓄”手法** — [media.io Gemini AI Boudoir Photo Prompt Guide](https://www.media.io/ai-prompts/gemini-ai-boudoir-photo-prompt.html) · 教程/文章 · 许可标注:未标注
 - **#1004 写实人像质量修复顺序与重绘强度（SDXL 时代）：先结构后细节——姿势不对 → 先上 ControlNet OpenPose/Depth 高权重或换更干净的姿势参考；姿势对但手指肢体坏 → 局部重绘 denoise 0.75–0.9；脸糊 → 面部微重绘 0.6–0.75；最后放大 denoise 0.2–0.4 增细节不漂移；基础参数 DPM++ 2M Karras、35–50 步、CFG 7–9、约 1MP，探索用随机种子、构图满意后锁种** — [DeepSpicy Blog](https://deepspicy.com/blog/improve-nsfw-ai-image-quality/) · 实测 · 许可标注:未标注 · 次要子分类:6.1、17.3
 - **#1098 成人向 Pony 系提示九段顺序：人数配置 → 角色外观 → 构图景别 → 姿势动作 → 场景 → 风格 → 光与情绪 → LoRA 与触发词 → 质量词；人数要显式组合写（2girls, 1boy），单人加 solo 防多余人物；权重用 (tag:1.2) 显式写法，超过 1.4 或低于 0.5 易出伪影** — [Terenzium](https://terenzium.com/guides/prompt-engineering-for-nsfw-image-generation-structure-and-modifiers) · 实测 · 许可标注:未标注 · 次要子分类:15.2
+- **#1182 成人向（boudoir）提示词七段结构：主体+服装+姿势+场景+光线+机身镜头+风格；用 boudoir / glamour / editorial 等摄影措辞比直白俚语更容易通过输入审核** — [SoImages（soimages.com）](https://soimages.com/resources/how-to-write-nsfw-ai-prompts/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
 ### 15.2 权重与括号语法(2)
 
@@ -455,10 +460,10 @@
 
 - **#883 成人向角色保持同一张脸：文字描述只是一类人（“绿眼、黑发、二十多岁、雀斑”对应几百万张脸），能锁定身份的只有图像——先出到满意的一张当角色卡，之后都以它为参考/视频起始帧；有参考图时别在提示里再描述身体特征，点名某属性会让模型主动去画它而不是保留它** — [Fellowi](https://fellowi.com/blog/consistent-nsfw-ai-character) · 教程/文章 · 许可标注:未标注
 
-## 18 质量与负面词(7 条)
+## 18 质量与负面词(9 条)
 
 
-### 18.2 负面词(6)
+### 18.2 负面词(8)
 
 - **#400 成人向生成时的副产物：用负面去掉颤抖线、断面图、拟声字和默认脸红** — [スタジオ真榊 プロンプト大辞典（成人向け副産物の除去）](https://studiomasakaki.com/articles/10051055/) · 实测 · 许可标注:未标注 · 次要子分类:18.3
 - **#470 写实成人向排错表：塑料皮、多指、脸漂移、构图平、过锐光晕各自的原因与快修** — [DeepSpicy Realistic NSFW AI Images（Troubleshooting mini-matrix）](https://deepspicy.com/blog/how-to-create-realistic-nsfw-ai-images/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.4
@@ -466,6 +471,8 @@
 - **#867 成人向私房修图原则→生图负面/质感词：只修“暂时的”（瑕疵、肤色不均、混光色偏），保留“属于这个人的”（毛孔、细纹、自然肤色差异、身形）；放大到 100% 皮肤仍要像皮肤而不是喷枪插画；身形只用光影 dodge & burn，不改形状；整组统一一个调色** — [Boudoir Guru](https://boudoir.guru/mastering-the-art-of-boudoir-photography-editing/) · 实测 · 许可标注:未标注 · 次要子分类:8.3
 - **#1097 成人向姿势五要素（无负面词字段时）：姿势动词 → 承重点与紧张点 → 画幅比例＋明确裁切 → 机位高度与视线 → 给每只手脚“派活”（接触面＋位置，fingers visible and separated 代替负面词）；关闭提示扩写以免长姿势句被改写** — [Siray Blog](https://blog.siray.ai/nsfw-pose-prompting-qwen-image-3-pro-spicy/) · 实测 · 许可标注:未标注 · 次要子分类:2.4、6.1
 - **#1133 成人向负面提示按模型族写短块：SDXL 写实约 8 词（bad anatomy, poorly drawn hands, deformed, plastic skin…），Pony 先放 score_4–6 与 source 标签，Illustrious/NoobAI 用质量标签，Flux/Chroma 3–6 词或留空；修顽固问题先加权到 1.2–1.3 而不是堆同义词** — [lewdly.ai Blog](https://lewdly.ai/blog/nsfw-negative-prompts-anatomy-2026) · 实测 · 许可标注:未标注
+- **#1168 成人向裸露程度与部分着装词表按引擎分用法：自然语言引擎写普通关键词、不加权也别指望负面词；标签引擎用逗号标签+对忽略的词加权（如 (topless:1.3)）并用负面清解剖** — [Xotic AI（xotic.ai）](https://www.xotic.ai/docs/image-generation/nsfw-tags) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、4.3
+- **#1174 成人向负面词与出图要点：露肤面积大时解剖/皮肤/比例错误更显眼，负面分“解剖比例、塑料皮、残留打码”三块；按姿势选画幅，避免对全身构图用大特写** — [Kalon（kalon.ai）](https://www.kalon.ai/templates/nsfw-ai-art-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.4
 
 ### 18.3 分级与尺度标签(1)
 
