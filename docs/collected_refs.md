@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 287 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 290 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(18 条)
@@ -133,7 +133,7 @@
 
 - **#176 covered xx 反效果与“遮挡”写法** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（ネガティブ・手で隠す）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 
-## 4 服装专项(46 条)
+## 4 服装专项(47 条)
 
 
 ### 4.1 日常服饰与款式词典(4)
@@ -143,7 +143,7 @@
 - **#792 成人向“只穿西装外套”私房（oversized blazer）：同一件外套同时说“职场的自信”和“私下的放松”；长度到臀或略低最协调、太短会和下半身断开；硬挺的羊毛或亚麻比软塌化纤好；敞开显松弛、扣上一粒显气场、袖子推上去去掉正式感，翻领、袖口、下摆和口袋就是手的落点** — [Liz by Design Photography / Revealed Studios / The Josh Studio / Inna Portraits](https://lizbydesignphoto.com/boudoir-photography-outfit-ideas/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、6.1
 - **#1139 成人向情侣图六槽公式：两位有区分特征的成年角色＋具体互动＋场景＋光＋风格＋质量词；互动槽最重要，升温只改姿势和服装槽、写衣着与距离不写解剖，系列图锁种子并逐字复用角色卡** — [SpicyLab Blog](https://spicylabai.app/ai-porn-prompts-for-couples/) · 实测 · 许可标注:未标注 · 次要子分类:1.5、15.1
 
-### 4.2 面料与材质(15)
+### 4.2 面料与材质(16)
 
 - **#26 面料语汇控制透出肌肤的程度** — [PROMPT ABYSS](https://promptabyss.com/lingerie-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.1
 - **#106 tag-skill：透明感化学反应（see-through + shiny clothes）** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:3.1
@@ -160,6 +160,7 @@
 - **#1027 成人向服装写法：材质+剪裁+小细节，并把“半脱状态”具体到哪颗扣子、哪根肩带、布料怎么受力** — [Pocket Animus](https://pocketanimus.com/guides/ai-porn-images-30-prompt-patterns/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.3
 - **#1070 成人向服装：材质是最强的杠杆，写“单品+面料+一两处镶边”；暗示靠造型语言（partially open robe、one strap down、sheer overlay）而非露骨词；材质要配光——蕾丝/薄纱配逆光轮廓光、乳胶皮革配硬光、丝缎配柔暖光** — [aiimagegeneratornsfw.com](https://aiimagegeneratornsfw.com/nsfw-ai-outfit-prompts-2026/) · 教程/文章 · 许可标注:未标注
 - **#1077 成人内衣/闺房摄影提示：结构写“主体＋服装细节＋姿势＋光线＋场景＋风格”，面料要具体（French lace、silk charmeuse、sheer tulle、velvet），按用途选光（窗光=浪漫闺房、butterfly=时尚、rim/backlit=剪影、low-key=艺术），核心元素控制在 5–6 个** — [Fizzly Blog](https://www.fizzly.ai/blog/ai-lingerie-generator-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、5.1
+- **#1210 内衣提示词按“种类→素材→装饰”逐层加：先定 bra / panties / slip / camisole / garter belt 的具体型号，再加 lace、satin、mesh 等材质；名字相近的型号主要差在缝线、杯型、背带与后片覆盖范围，后片差异要用背面构图看** — [UruruAILab（ururuailab.com）](https://ururuailab.com/sd-prompt-underwear/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4
 
 ### 4.3 穿着状态与穿脱(7)
 
@@ -203,10 +204,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(52 条)
+## 5 光影氛围(53 条)
 
 
-### 5.1 光源与方向(21)
+### 5.1 光源与方向(22)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -229,6 +230,7 @@
 - **#1118 成人向写实人体光影：rim lighting 勾身体轮廓、chiaroscuro/low-key 用深影藏瑕疵、subsurface scattering＋可见毛孔防“塑料皮”；暗示性写法（半透明布料、湿衣、油亮皮肤）往往比直白露骨更出片** — [Oreate AI](https://discover.oreateai.com/discover/technical-secrets-of-high-fidelity-nsfw-ai-prompt-engineering) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.5、5.7
 - **#1132 成人向“暗示裸体”（implied nude）的画面控制：靠身体角度、床单、手、家具边缘和画框边缘遮挡关键部位，用伦勃朗/侧分光让阴影同时承担美感与遮挡；全裸艺术向分高调（画廊白）与低调（单光源从暗处浮出）两种** — [Photography Shark](https://www.photographyshark.com/blog/boudoir-nude-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.3、5.6
 - **#1203 成人向低调光（low key）：必须成对写“亮锚点+纯黑”（rim of light on skin / sculpted highlights + deep black shadows / mostly in shadow），负面点名 fill light、even lighting、gray shadows、muddy；CFG 6–8、28–35 步、ADetailer 去噪 0.3 防提亮暗半脸，并点名分割光/伦勃朗等单一光型** — [AI Image Generator NSFW（aiimagegeneratornsfw.com）](https://aiimagegeneratornsfw.com/how-to-make-low-key-nsfw-ai-photos-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.7
+- **#1216 成人向闺房摄影的光与机位：窗光做主光（左侧薄纱透进的晨光）、床头灯做暖色补光，冷暖平衡；三分之四身侧身、视线略离镜头更显私密，直视则偏对峙感；写明相机参数与“自信、尊严”指向** — [Strategy Master AI（strategymasterai.com）](https://strategymasterai.com/nano-banana-prompts-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6
 
 ### 5.3 室内光源与色温(6)
 
@@ -273,7 +275,7 @@
 - **#900 成人向 moody 低调私房：区别在光而不在露多少——柔光 + 深阴影、单色或低饱和、暗房；让阴影占据部分画面、柔光只塑脸和身形；暖调=舒适亲密、冷调=神秘沉思；构图不只三分法，用平衡与动势把视线引到表情；后期调色要克制，人仍要像自己** — [Boudoir Guru](https://boudoir.guru/moody-boudoir-photography-guide/) · 实测 · 许可标注:未标注 · 次要子分类:2.4
 - **#1161 成人向四种类型的光影/风格/构图配方：写实人体＝窗侧光＋柔轮廓光、古典油画＝强烈明暗对比＋单烛光、电影感闺房＝霓虹轮廓光＋钨丝灯＋雾、2D 动漫＝高调棚光＋清晰边缘高光；用 raking/low-key 代替 beautiful** — [Fxroom (fxroom.ai)](https://fxroom.ai/blog/nsfw-ai-prompts-guide) · 实测 · 许可标注:未标注
 
-## 6 姿势动作(41 条)
+## 6 姿势动作(42 条)
 
 
 ### 6.1 站立与全身姿态(16)
@@ -319,11 +321,12 @@
 - **#419 成人向角色图的手：五种症状与修法，双人只留一个接触点** — [Fellowi Blog Hands in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-hands-and-gestures) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.6
 - **#726 成人向私房手部摆放：只用指尖触碰衣物和身体、手指微卷不平贴、用“动作”带出手（把头发拨到耳后、手指沿颈部滑下）、小指一侧对镜头、左右不对称；把手藏起来反而最有暗示性** — [Couture Boudoir](https://www.coutureboudoir.com/boudoir-tips-for-photographers-posing-hands/) · 教程/文章 · 许可标注:未标注
 
-### 6.6 双人与多人互动(3)
+### 6.6 双人与多人互动(4)
 
 - **#116 Danbooru 姿势分组：跨坐/四肢着地/大字形等亲密向全身姿势** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/tag_group:posture) · 社区维基 · 许可标注:无明确许可(仅摘要/链接) · 次要子分类:6.2
 - **#118 n714 姿势词库：跨坐/腿缠/四肢着地等近距离姿势** — [GitHub n714/stable-diffusion-prompt-library-zh_CN (MIT)](https://github.com/n714/stable-diffusion-prompt-library-zh_CN) · 仓库 · 许可标注:MIT · 次要子分类:6.3
 - **#859 成人向情侣私房的难点：两具身体同时摆姿势时，动一人肩膀就可能挡另一人脸、手臂交叉成怪结；两人身高体型肤色不同、拥抱时位置一直变，光很难同时照好两张脸——生图时先定一个主光照两张脸，再只写少数接触点** — [Believe in Boudoir](https://blog.believeinboudoir.com/boudoir-photographers-couples-session-mistakes/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
+- **#1217 成人向情侣双人模板 9 式（拥抱、额吻、背后拥抱、晨床剪影、舞池下腰、雨中共伞、晚宴、海边牵手 POV、沙发共读）：固定写 two adults + 姿势 + 光 + 浅景深 + 安全词，负面只针对该式最易坏处（face fusion、hand overlap glitches）；被拦时 kiss 换 forehead touch、用逆光剪影做“暗示”** — [DeepSpicy Blog（deepspicy.com）](https://deepspicy.com/blog/nsfw-ai-prompts-35/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.5
 
 ### 6.7 身体曲线与四肢细节(4)
 
