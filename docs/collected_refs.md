@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 294 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 295 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(18 条)
@@ -110,7 +110,7 @@
 - **#619 成人向镜面私房布光：主灯放在人和镜子之间、与脸成 45°，大柔光源让本体与倒影都读得清；倒影略暗反而增加纵深；f/4–f/8 让两者都清晰** — [Boudoir Inspiration / Tov Studio Photo](https://www.boudoirinspiration.com/the-secrets-to-perfect-mirror-reflection-lighting-in-boudoir) · 教程/文章 · 许可标注:未标注
 - **#912 成人向私房的椅子和镜子当道具用：正常坐椅子会折短躯干出褶，改成深陷椅中屈膝挡腹、滑到椅边弓背拉长、或半躺；镜子从肩后越过拍、只取想要的反射、大光圈让镜中像清晰而实体虚化；原则是“推向镜头的会变大，推远的会变小”** — [JG Boudoir](https://jgboudoir.com/boudoir-posing-tips/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
-## 3 裸露液体(12 条)
+## 3 裸露液体(13 条)
 
 
 ### 3.1 湿身与透视(6)
@@ -122,13 +122,14 @@
 - **#560 成人向牛奶浴实测（z-image-turbo）：milk bath 复现率很高、靠乳白不透明水自然遮挡；抹茶色透明度会下降，草莓/椰子会真的生成水果** — [かわいいプロンプト研究所: Milk Bath Prompt Experiment](https://kawaiipromptlab.com/en/tips/milk-bath-fetish-test/) · 实测 · 许可标注:未标注 · 次要子分类:3.3
 - **#1034 成人向“湿身布景”（wet set）：人站在喷了水珠的透明亚克力板后、板与人之间再喷雾当蒸汽；最后才在皮肤上抹婴儿油让水珠成粒，像刚淋过雨** — [SIZZLE.PHOTOGRAPHY](https://sizzle.photography/introducing-the-wet-set/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.3、3.2
 
-### 3.2 汗水与液体质感(5)
+### 3.2 汗水与液体质感(6)
 
 - **#98 wet / sweat / very sweaty 的程度区分** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/sweat) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#355 汗的写法实测：sweaty skin ≈ glistening with sweat，指定部位才会集中** — [Kawaii Prompt Lab 汗・汗ばむ肌プロンプト検証](https://kawaiipromptlab.com/tips/sweaty-skin-descriptor-test/) · 实测 · 许可标注:未标注
 - **#1062 成人向肌肤质感五套组合：光泽肌 glossy+shiny skin+skin highlights；汗湿 sweat+sweaty+sweat drops 叠加再加 wet skin+glistening skin；淋湿 wet+water droplets on skin+reflective skin 配霓虹；美容特写 dewy+oily skin+subsurface scattering；逆光 backlit+rim lighting+light sweat；负面统一加 matte skin** — [ねこかわ](https://nekokawa.com/post-1774153498-1/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#1111 成人向皮肤湿润分五级写：light sweat → sweating → sweaty skin → excessive sweat → dripping sweat 只选一级，再叠 glistening skin 当“倍增器”；淋浴、雨中用 wet skin；不要同时叠两个等级词，并且每个状态词都要配成年锚点** — [PROMPT ABYSS](https://promptabyss.com/body-physique-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:19.1
 - **#1181 成人向写实皮肤四杠杆（Qwen Image 3 Spicy）：毛孔细节、次表面散射光、表面状态对比（汗光/油光 vs 粗麻布）、无负面框时用正向“未修图”措辞并前置** — [Siray.AI Blog（blog.siray.ai）](https://blog.siray.ai/qwen-image-3-spicy-prompting/) · 实测 · 许可标注:未标注 · 次要子分类:18.2
+- **#1230 成人向肌肤质感五档对照（同 seed 只换一组质感词）：干燥哑光（基准）→湿肌 (wet skin:1.3), dripping water→汗 (sweat:1.3), sweat drops, after workout→水珠 (water droplets on skin:1.3), after shower glow→油光 (oily skin:1.3), body oil sheen；配 warm light / rim light 让高光出来，出过头降到 1.1** — [ねこかわ（nekokawa.com）](https://nekokawa.com/post-1782668851-2/) · 实测 · 许可标注:未标注
 
 ### 3.3 遮挡与露出边界(1)
 
