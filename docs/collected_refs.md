@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 298 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 300 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -42,7 +42,7 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(51 条)
+## 2 景别构图(52 条)
 
 
 ### 2.1 景别与取景(7)
@@ -55,7 +55,7 @@
 - **#1126 成人向多人/情侣静帧：成败在“连接两人的动词”，用物理方位写清谁在前后上下、各朝哪、手和髋在哪；多人需更宽景别和明确机位（wide low-angle / side-on full-body）防肢体融合** — [Nureta Developer Blog](https://developer.nureta.ai/blog/couples-and-multi-subject-nsfw-images) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2
 - **#1202 成人向艺术人体的取景：公式“成年主体+视角/姿势+取景范围+光+场景+摄影处理”，取景写成可决定的具体范围（from the shoulders to the hips）、用近距裁切把身体变成曲线“风景”、主体只占三分之一配大片暗部留白；相机参数不能替代说清“相机看到什么”** — [Figureloom Guides（figureloom.com）](https://figureloom.com/guides/fine-art-nude-ai-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.4
 
-### 2.2 机位与视角(21)
+### 2.2 机位与视角(22)
 
 - **#34 第一人称 POV 控制（Illustrious LoRA 经验）** — [Civitai (Female POV LoRA)](https://civitai.com/models/1460002/female-pov-1st-person-point-of-view) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.4
 - **#141 成人向机位清单：机位高度/景别/镜头词** — [Fellowi Blog（NSFW 姿势与机位）](https://fellowi.com/blog/nsfw-ai-poses-and-camera-angles) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1、2.3
@@ -78,6 +78,7 @@
 - **#1146 成人向机位与景别搭配：from above 显胸线、from below 营造被俯视感（加 ceiling 角度更陡）、from side 显侧线、from behind 显背臀＋looking at viewer 回头、oblique angle 万能、POV 增强临场感；景别 full body/upper body/cowboy shot/close up 各自截到哪** — [エロ画像の作り方（ai-illustration.info）](https://ai-illustration.info/stable-diffusion-angle-prompt/) · 教程/文章 · 许可标注:未标注
 - **#1189 成人向提示词五要素（主体→姿势/动作→景别机位→光源→渲染风格），具体胜过露骨；不想要的东西用正向替代描述而非否定词，按一次加一维的方式迭代** — [Nureta Developer Blog（developer.nureta.ai）](https://developer.nureta.ai/blog/nsfw-image-prompt-guide) · 实测 · 许可标注:未标注 · 次要子分类:5.1
 - **#1224 成人向 NovelAI 机位标签对照测试：固定人物与姿势只换 from front / side / behind / back / above / below / diagonal；from back 比 from behind 更容易出正背面全臀，from above 配上目遣い最实用，from below 强调腿与躯干；from afar、from over shoulder 基本无效** — [エロプロンプト（ero-prompt.com）](https://ero-prompt.com/?p=5373) · 实测 · 许可标注:未标注
+- **#1263 成人向泳装/内衣写真四模型同提示对照（ComfyUI：HARUKI_MIX ZIT2606Real、Z-Image Turbo、FLUX.2 Dev、RealVisXL V5.0）：共用末尾写死“清楚的成年 20 岁原创女性＋不透明全衬里遮盖＋单人＋无文字”，正文按 Camera/Pose/Expression/Wardrobe/Scene/Light 分段；同种子换模型人物不会一致，单人、低机位、闭眼、短款等指定各模型达成率不同** — [イカムフォート・プロンプト（ikam-faut.com）](https://ikam-faut.com/posts/00073/) · 实测 · 许可标注:未标注 · 次要子分类:3.1、4.5
 
 ### 2.3 镜头焦段与景深(8)
 
@@ -136,7 +137,7 @@
 
 - **#176 covered xx 反效果与“遮挡”写法** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（ネガティブ・手で隠す）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 
-## 4 服装专项(48 条)
+## 4 服装专项(49 条)
 
 
 ### 4.1 日常服饰与款式词典(4)
@@ -146,7 +147,7 @@
 - **#792 成人向“只穿西装外套”私房（oversized blazer）：同一件外套同时说“职场的自信”和“私下的放松”；长度到臀或略低最协调、太短会和下半身断开；硬挺的羊毛或亚麻比软塌化纤好；敞开显松弛、扣上一粒显气场、袖子推上去去掉正式感，翻领、袖口、下摆和口袋就是手的落点** — [Liz by Design Photography / Revealed Studios / The Josh Studio / Inna Portraits](https://lizbydesignphoto.com/boudoir-photography-outfit-ideas/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、6.1
 - **#1139 成人向情侣图六槽公式：两位有区分特征的成年角色＋具体互动＋场景＋光＋风格＋质量词；互动槽最重要，升温只改姿势和服装槽、写衣着与距离不写解剖，系列图锁种子并逐字复用角色卡** — [SpicyLab Blog](https://spicylabai.app/ai-porn-prompts-for-couples/) · 实测 · 许可标注:未标注 · 次要子分类:1.5、15.1
 
-### 4.2 面料与材质(16)
+### 4.2 面料与材质(17)
 
 - **#26 面料语汇控制透出肌肤的程度** — [PROMPT ABYSS](https://promptabyss.com/lingerie-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.1
 - **#106 tag-skill：透明感化学反应（see-through + shiny clothes）** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:3.1
@@ -164,6 +165,7 @@
 - **#1070 成人向服装：材质是最强的杠杆，写“单品+面料+一两处镶边”；暗示靠造型语言（partially open robe、one strap down、sheer overlay）而非露骨词；材质要配光——蕾丝/薄纱配逆光轮廓光、乳胶皮革配硬光、丝缎配柔暖光** — [aiimagegeneratornsfw.com](https://aiimagegeneratornsfw.com/nsfw-ai-outfit-prompts-2026/) · 教程/文章 · 许可标注:未标注
 - **#1077 成人内衣/闺房摄影提示：结构写“主体＋服装细节＋姿势＋光线＋场景＋风格”，面料要具体（French lace、silk charmeuse、sheer tulle、velvet），按用途选光（窗光=浪漫闺房、butterfly=时尚、rim/backlit=剪影、low-key=艺术），核心元素控制在 5–6 个** — [Fizzly Blog](https://www.fizzly.ai/blog/ai-lingerie-generator-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、5.1
 - **#1210 内衣提示词按“种类→素材→装饰”逐层加：先定 bra / panties / slip / camisole / garter belt 的具体型号，再加 lace、satin、mesh 等材质；名字相近的型号主要差在缝线、杯型、背带与后片覆盖范围，后片差异要用背面构图看** — [UruruAILab（ururuailab.com）](https://ururuailab.com/sd-prompt-underwear/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4
+- **#1255 成人向泳装/内衣写真：结构 [体型]+[服装细节]+[光]+[姿势]+[背景]+[镜头/风格]；面料词 sheer fabric detail、lace texture、satin sheen 提升真实感；常见翻车（肩带变形、多余肚脐、多人入镜、塑料脸）分正/负面词修；内衣用 2:3、泳装用 4:5，避免 1:1** — [AITwin.ninja（aitwin.ninja）](https://aitwin.ninja/create-ai-swimwear-lingerie-photos/) · 教程/文章 · 许可标注:未标注
 
 ### 4.3 穿着状态与穿脱(7)
 
