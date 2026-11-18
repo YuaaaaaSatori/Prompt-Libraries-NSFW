@@ -2,13 +2,13 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 295 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 297 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
-## 1 场景主题(18 条)
+## 1 场景主题(19 条)
 
 
-### 1.1 室内与居所场景(10)
+### 1.1 室内与居所场景(11)
 
 - **#33 卧室肖像模板（非露骨基础款）** — [LustFind](https://lustfind.com/how-to/novelai-nsfw-image-guide) · 教程/文章 · 许可标注:未标注
 - **#38 把卧室当片场设计** — [VideoAny Blog](https://videoany.io/blog/posts/nsfw-ai-bedroom-scene-generator) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.5
@@ -20,6 +20,7 @@
 - **#579 成人向酒店私房布光与机位：留纱帘、人离窗 2–4 英尺；床上俯拍/床头侧拍/床尾广角；浴室关顶灯借卧室窗光；门缝与转角制造神秘感** — [Boudoir Inspiration: Hotel Room Boudoir Photography Guide（布光与机位）](https://www.boudoirinspiration.com/hotel-room-boudoir-photography-ultimate-guide#lighting) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 - **#866 成人向 shabby chic 复古私房：做旧剥漆家具 + 柔软女性化织物 + 粉彩色 + 柔光——掉漆梳妆台旁堆着蕾丝与亚麻、老旧贵妃椅、毛边毯、瓶中玫瑰；场地选剥漆老宅、裸木谷仓或花园，没有就用素房间 + 几件旧家具 + 薄纱帘窗光；家具给手找地方放** — [Boudoir Guru](https://boudoir.guru/embracing-elegance-shabby-chic-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2、5.1
 - **#1188 成人向 boudoir 组图的场景法：整组只用一个房间、不同机位讲故事；按“全景交代房间→半身穿搭→手/蕾丝/窗光脸部特写”10–15 张；单侧柔光+面料名** — [KinkAI Blog（kinkai.me）](https://kinkai.me/blog/boudoir-ai-photos-without-a-photographer) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2
+- **#1238 成人向卧室场景要“有人住过”：按床型定调（king-size 皱白床单、低矮日式床、四柱床帐幔、丝绒贵妃椅）、用暖色台灯或纱帘晨光、床头放半杯水/充电手机/扣着的书、椅背搭衣服；人物要写“压陷床垫”避免悬浮，机位略高 10–15 度** — [HackAIGC Blog（hackaigc.com）](https://www.hackaigc.com/blog/bedroom-scene-prompt-ai) · 实测 · 许可标注:未标注
 
 ### 1.2 户外城市与自然场景(1)
 
@@ -207,10 +208,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(53 条)
+## 5 光影氛围(54 条)
 
 
-### 5.1 光源与方向(22)
+### 5.1 光源与方向(23)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -234,6 +235,7 @@
 - **#1132 成人向“暗示裸体”（implied nude）的画面控制：靠身体角度、床单、手、家具边缘和画框边缘遮挡关键部位，用伦勃朗/侧分光让阴影同时承担美感与遮挡；全裸艺术向分高调（画廊白）与低调（单光源从暗处浮出）两种** — [Photography Shark](https://www.photographyshark.com/blog/boudoir-nude-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.3、5.6
 - **#1203 成人向低调光（low key）：必须成对写“亮锚点+纯黑”（rim of light on skin / sculpted highlights + deep black shadows / mostly in shadow），负面点名 fill light、even lighting、gray shadows、muddy；CFG 6–8、28–35 步、ADetailer 去噪 0.3 防提亮暗半脸，并点名分割光/伦勃朗等单一光型** — [AI Image Generator NSFW（aiimagegeneratornsfw.com）](https://aiimagegeneratornsfw.com/how-to-make-low-key-nsfw-ai-photos-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.7
 - **#1216 成人向闺房摄影的光与机位：窗光做主光（左侧薄纱透进的晨光）、床头灯做暖色补光，冷暖平衡；三分之四身侧身、视线略离镜头更显私密，直视则偏对峙感；写明相机参数与“自信、尊严”指向** — [Strategy Master AI（strategymasterai.com）](https://strategymasterai.com/nano-banana-prompts-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6
+- **#1239 成人向（非露骨）闺房人像布光拆成三个独立决定：阴影边缘软或硬、光从哪个方向来、背景多亮；三套方案（侧窗光、柔光棚、侧光暗调）都要写“想看见的结果”，如双眼可读、远侧脸颊柔和阴影、深色衣服与墙分开；每次只改一个光线指令再对比** — [AIGirlShot Blog（aigirlshot.com）](https://aigirlshot.com/blog/boudoir-photography-lighting) · 实测 · 许可标注:未标注
 
 ### 5.3 室内光源与色温(6)
 
