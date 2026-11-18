@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 297 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 298 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -375,13 +375,17 @@
 - **#270 轻度愉悦表情：先放 relaxed face 再叠加** — [で、AIはなんて？ 快楽や恍惚の表情を描くプロンプト](https://ai-nante.com/ai-prompt-pleasure-face/) · 教程/文章 · 许可标注:未标注
 - **#1048 成人向私房的四种“性感表情”：闭眼深呼吸、齿合唇微张用嘴呼气的嘟唇、“知道秘密”的坏笑、三种眼神（直视镜头/只转眼不转头的侧眼 bedroom eyes/看向画外的无辜感）；smize 是放松下颌、微眯眼抬颧骨但不笑** — [Bell's Boudoir Photography](https://www.bellsboudoirphotography.com/the-boudoir-blog/how-to-look-sexy) · 教程/文章 · 许可标注:未标注
 
-## 8 风格胶片(2 条)
+## 8 风格胶片(3 条)
 
 
 ### 8.1 画风与媒介(2)
 
 - **#539 成人向 pin-up 进阶：照片系与手绘日历系二选一、按年代（40/50/60 年代、rockabilly）整套换发型妆容色调、负面挡现代感** — [aiimagegeneratornsfw: How to Make Pinup NSFW AI Art 2026](https://aiimagegeneratornsfw.com/how-to-make-pinup-nsfw-ai-art-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
 - **#885 成人向动漫风为什么会变“糊成一团的半写实画”：anime 不是题材而是一套刻意的简化渲染——要点名机制：cel shading（阴影起点硬边、平块色）、可变线宽（clean bold linework, thin interior lines）、平涂与有限色板、年代/媒介（90s OVA, film grain, muted palette）而不是作品或工作室名；成人场景同样只写画面里应有的** — [Fellowi](https://fellowi.com/blog/nsfw-anime-ai-art) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3、15.2
+
+### 8.3 胶片与摄影风格(1)
+
+- **#1247 闺房写真“暗示性遮盖”：成年女性裹着超大白色亚麻床单坐在床沿、视线移开，对焦锁在裸肩和亚麻纹理，晨光透过薄纱窗帘、高调光、柔和胶片颗粒；换天鹅绒/金色时刻/冷冬光即可变体；Qwen Image 2512 CFG 3.0–3.5、30 步、3:4** — [Proxima Pictures（proxima.art）](https://proxima.art/prompt/boudoir-portrait-with-linen-sheet) · 实测 · 许可标注:未标注
 
 ## 10 发型饰品(2 条)
 
