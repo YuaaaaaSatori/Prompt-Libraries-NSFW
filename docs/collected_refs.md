@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 300 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 302 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -414,7 +414,7 @@
 
 - **#144 成人向场景道具：三件而非三十件** — [Fellowi Blog（NSFW 场景布置・道具）](https://fellowi.com/blog/nsfw-ai-scenes-and-settings) · 教程/文章 · 许可标注:未标注
 
-## 15 提示词结构与技巧(17 条)
+## 15 提示词结构与技巧(18 条)
 
 
 ### 15.1 整体结构与顺序(9)
@@ -429,11 +429,12 @@
 - **#1098 成人向 Pony 系提示九段顺序：人数配置 → 角色外观 → 构图景别 → 姿势动作 → 场景 → 风格 → 光与情绪 → LoRA 与触发词 → 质量词；人数要显式组合写（2girls, 1boy），单人加 solo 防多余人物；权重用 (tag:1.2) 显式写法，超过 1.4 或低于 0.5 易出伪影** — [Terenzium](https://terenzium.com/guides/prompt-engineering-for-nsfw-image-generation-structure-and-modifiers) · 实测 · 许可标注:未标注 · 次要子分类:15.2
 - **#1182 成人向（boudoir）提示词七段结构：主体+服装+姿势+场景+光线+机身镜头+风格；用 boudoir / glamour / editorial 等摄影措辞比直白俚语更容易通过输入审核** — [SoImages（soimages.com）](https://soimages.com/resources/how-to-write-nsfw-ai-prompts/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
-### 15.2 权重与括号语法(3)
+### 15.2 权重与括号语法(4)
 
 - **#884 成人向提示“能出图”的写法：图像模型没有可靠的否定概念——写 no tattoos 等于告诉它纹身相关，常常就出纹身；只描述应该出现的、把不要的直接省略；身体用直白描述词而不是委婉语或俚语（“裸露的肩背，床单盖在胯部”是画面，“几乎不留想象空间”不是画面而是评价）** — [Fellowi](https://fellowi.com/blog/nsfw-ai-image-prompts) · 教程/文章 · 许可标注:未标注
 - **#1125 成人向动漫提示五层结构：质量→画风→主体（显式写 adult/mature）→场景→成人向元素，越靠前权重越高；“暗示优于直白”，配安全负面（child, underage, real person）作第二道防线** — [WaifuSynth](https://waifusynth.com/nsfw-anime-ai-prompt-guide-2026/) · 实测 · 许可标注:未标注 · 次要子分类:15.1、18.1
 - **#1231 成人向提示词七层框架：风格/画质→主体与身体（含成年年龄锚点）→服装与状态（湿肌、油光、出汗、凌乱发）→姿势动作（多人写清彼此相对位置）→场景→光线情绪→机位技术；前 5–10 个词最重要；权重只给 2–3 个关键元素；图片 15–40 词逗号短语，视频只写一两个动作、先出静帧再图生视频** — [Arktan（arktan.com）](https://arktan.com/ai-porn-prompt-generator) · 教程/文章 · 许可标注:未标注 · 次要子分类:19.1
+- **#1279 成人向图像/视频提示先写“一句话创作简报”：原创虚构成年角色＋动作/姿势＋场景＋构图＋光线＋画面处理；写可在成片里核对的可见细节，挑几条“不可让步”项，删掉互相打架的指令（very close and very wide），每轮只改一个最大偏差** — [JuicyCat Prompt Guide（juicycat.tv）](https://juicycat.tv/en/prompt-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1、19.1
 
 ### 15.3 标签与自然语言(1)
 
@@ -501,15 +502,16 @@
 
 - **#175 分级标签 general / sensitive / nsfw / explicit 的控制** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（レーティング）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注
 
-## 19 年龄与体型锚点(11 条)
+## 19 年龄与体型锚点(12 条)
 
 
-### 19.1 成年角色锚点(4)
+### 19.1 成年角色锚点(5)
 
 - **#229 体型提示的“成年地板”：mature female 必写＋负面成人块** — [PROMPT ABYSS Body Physique Prompt Master Guide](https://promptabyss.com/body-physique-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 - **#1084 丰满成年女性私房姿势的三个共同点：拉长躯干、做出腰臀 S 曲线、四肢斜放不压平；梨形身材引导视线向上并扭腰，苹果形身材用侧角度以腿和肩领先** — [Bri Valiente Boudoir](https://brivaliente.com/2026/09/15/plus-size-boudoir-poses/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、19.2
 - **#1112 Illustrious 画成人向内容时年龄会被拉低：负面框补 loli, shota, child, aged_down，正向写 mature 相关词；Illustrious 不认 Pony 的 score 标签，重要内容放前面、长提示把质量词挪到末尾** — [Civitai (Arctenox)](https://civitai.com/articles/23210/arctenoxs-simple-prompt-guide-for-illustrious-for-comfyuisite) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.2、18.1
 - **#1175 无审查动漫模型的成年锚点与标签顺序：1girl 只是人数不是年龄，必须加 mature female/adult woman/具体 30+ 岁/mature face；脸显小就补年龄数字与 smile lines、删校园词** — [SpicyAPI Blog（spicyapi.ai）](https://spicyapi.ai/blog/danbooru-tags-nsfw-anime-guide) · 实测 · 许可标注:未标注
+- **#1271 成人向动漫模型（Anima Turbo）的标签顺序与分级标签：质量词→分级标签（safe / sensitive / nsfw…）→人数→成年声明（adult woman, mature female）→角色块（发型、瞳色、一个标志性痣）→服装/地点/姿势/光；角色块整段复用＋锁种子，一次只改一个子句** — [SpicyAPI Blog（spicyapi.ai）](https://spicyapi.ai/blog/how-to-make-nsfw-anime-art-with-ai) · 实测 · 许可标注:未标注 · 次要子分类:15.1
 
 ### 19.2 体型词汇(6)
 
