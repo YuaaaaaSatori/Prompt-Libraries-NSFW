@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 302 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 305 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -42,10 +42,10 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(52 条)
+## 2 景别构图(53 条)
 
 
-### 2.1 景别与取景(7)
+### 2.1 景别与取景(8)
 
 - **#37 近景脸部分件词：增加面部描写** — [で、AIはなんて？](https://ai-nante.com/seductive-expression-prompts/) · 教程/文章 · 许可标注:未标注
 - **#288 成人向机位“七块”速查：景别+角度+焦段+景深打包** — [AI Image Generator NSFW Camera Angle Prompts 2026](https://aiimagegeneratornsfw.com/nsfw-ai-camera-angle-prompts-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.3
@@ -54,6 +54,7 @@
 - **#855 成人向 AI 图“看着不对”的症状→原因→修法：塑料皮（删 flawless/perfect skin，改写毛孔雀斑+定向光）、手和肢体错（每只手一件事、减少接触点、拉远一点、先重抽一次）、裁切错（先选画幅再写 full-length 等景别）、脸不一致（用参考图）、出图变保守（描述可见内容而非写 nsfw/explicit 标签）、细节打架（一主体一场景一光一风格）** — [Fellowi](https://fellowi.com/blog/nsfw-ai-generation-mistakes) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.3
 - **#1126 成人向多人/情侣静帧：成败在“连接两人的动词”，用物理方位写清谁在前后上下、各朝哪、手和髋在哪；多人需更宽景别和明确机位（wide low-angle / side-on full-body）防肢体融合** — [Nureta Developer Blog](https://developer.nureta.ai/blog/couples-and-multi-subject-nsfw-images) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2
 - **#1202 成人向艺术人体的取景：公式“成年主体+视角/姿势+取景范围+光+场景+摄影处理”，取景写成可决定的具体范围（from the shoulders to the hips）、用近距裁切把身体变成曲线“风景”、主体只占三分之一配大片暗部留白；相机参数不能替代说清“相机看到什么”** — [Figureloom Guides（figureloom.com）](https://figureloom.com/guides/fine-art-nude-ai-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.4
+- **#1295 成人向图像的取景与画幅对齐：景别词要和画幅配对（全身/站姿→9:16，肖像/中景→3:4，带环境→4:3，横躺或双人宽景→16:9，头肩→1:1），一张图只写一个姿势，主体首句写明成年年龄段，镜头 85/50/35mm 对应肖像/中景/全身** — [Nextpart AI Blog（nextpart.ai）](https://nextpart.ai/blog/nsfw-ai-image-prompts-2026-10-27) · 实测 · 许可标注:未标注 · 次要子分类:2.3、6.1
 
 ### 2.2 机位与视角(22)
 
@@ -282,10 +283,10 @@
 - **#900 成人向 moody 低调私房：区别在光而不在露多少——柔光 + 深阴影、单色或低饱和、暗房；让阴影占据部分画面、柔光只塑脸和身形；暖调=舒适亲密、冷调=神秘沉思；构图不只三分法，用平衡与动势把视线引到表情；后期调色要克制，人仍要像自己** — [Boudoir Guru](https://boudoir.guru/moody-boudoir-photography-guide/) · 实测 · 许可标注:未标注 · 次要子分类:2.4
 - **#1161 成人向四种类型的光影/风格/构图配方：写实人体＝窗侧光＋柔轮廓光、古典油画＝强烈明暗对比＋单烛光、电影感闺房＝霓虹轮廓光＋钨丝灯＋雾、2D 动漫＝高调棚光＋清晰边缘高光；用 raking/low-key 代替 beautiful** — [Fxroom (fxroom.ai)](https://fxroom.ai/blog/nsfw-ai-prompts-guide) · 实测 · 许可标注:未标注
 
-## 6 姿势动作(42 条)
+## 6 姿势动作(43 条)
 
 
-### 6.1 站立与全身姿态(16)
+### 6.1 站立与全身姿态(17)
 
 - **#203 成人向复古 Pinup：魅力光 + 俏皮姿势 + 年代造型** — [AI Image Generator NSFW（How to Make Pinup NSFW AI Art 2026）](https://aiimagegeneratornsfw.com/how-to-make-pinup-nsfw-ai-art-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6、8.3
 - **#339 闺房姿势五原则与五个经典姿势** — [Believe in Boudoir The Art of Posing in Sensual Boudoir](https://blog.believeinboudoir.com/intro-to-posing-for-boudoir/) · 教程/文章 · 许可标注:未标注
@@ -303,6 +304,7 @@
 - **#1010 成人情侣私房拍摄六阶段（60–90 分钟渐进）：①休闲情侣肖像 ②优雅性感（007 式正装、晚礼服）③俏皮生活方式 ④亲密情侣私房 ⑤情色情侣私房（仅在双方意愿时）⑥艺术裸体冷却收尾——每阶段换情绪、姿势与布光，避免重复尴尬；可按情侣意愿只做前几段** — [Believe in Boudoir Blog](https://blog.believeinboudoir.com/couples-boudoir-posing-6-stages/) · 教程/文章 · 许可标注:未标注
 - **#1028 成人向姿势逐部位锁定：重心与胯（对立式 S 曲线）→每只手各做什么→头部倾角与视线→坐姿四要素（膝、前倾、撑手、另一只手）** — [Pocket Animus](https://pocketanimus.com/guides/ai-porn-images-30-prompt-patterns/) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.2
 - **#1147 成人向姿势标签词典（booru 下划线写法）：低位（crouching 脚跟离地/squatting 脚跟着地/low_squat）、跪姿三种、躯干（leaning_forward 朝镜头/bent_over/arched_back）、躺姿、腿部开合与 hips_thrust_forward；provocative_pose 这类泛词只当气氛** — [BetterWaifu](https://betterwaifu.com/blog/ai-pose-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.2、6.3
+- **#1311 成人向私房姿势按六问顺序搭：整体概念（坐/卧/站，要突出哪个部位）→腿（不过弯不全直＋绷脚尖）→手（给一个任务：拨头发、沿腿滑过、拉肩带）→拱背→头（下巴前伸/仰起、肩下沉拉长脖子）→表情（具体指令：眼看下、唇微启），别写“be sexy”** — [Behind the Shutter（Shutter Magazine）](https://www.behindtheshutter.com/posing-tips-for-powerful-boudoir-images/) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.2、6.7
 
 ### 6.2 坐姿(5)
 
@@ -377,7 +379,7 @@
 - **#270 轻度愉悦表情：先放 relaxed face 再叠加** — [で、AIはなんて？ 快楽や恍惚の表情を描くプロンプト](https://ai-nante.com/ai-prompt-pleasure-face/) · 教程/文章 · 许可标注:未标注
 - **#1048 成人向私房的四种“性感表情”：闭眼深呼吸、齿合唇微张用嘴呼气的嘟唇、“知道秘密”的坏笑、三种眼神（直视镜头/只转眼不转头的侧眼 bedroom eyes/看向画外的无辜感）；smize 是放松下颌、微眯眼抬颧骨但不笑** — [Bell's Boudoir Photography](https://www.bellsboudoirphotography.com/the-boudoir-blog/how-to-look-sexy) · 教程/文章 · 许可标注:未标注
 
-## 8 风格胶片(3 条)
+## 8 风格胶片(4 条)
 
 
 ### 8.1 画风与媒介(2)
@@ -385,9 +387,10 @@
 - **#539 成人向 pin-up 进阶：照片系与手绘日历系二选一、按年代（40/50/60 年代、rockabilly）整套换发型妆容色调、负面挡现代感** — [aiimagegeneratornsfw: How to Make Pinup NSFW AI Art 2026](https://aiimagegeneratornsfw.com/how-to-make-pinup-nsfw-ai-art-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
 - **#885 成人向动漫风为什么会变“糊成一团的半写实画”：anime 不是题材而是一套刻意的简化渲染——要点名机制：cel shading（阴影起点硬边、平块色）、可变线宽（clean bold linework, thin interior lines）、平涂与有限色板、年代/媒介（90s OVA, film grain, muted palette）而不是作品或工作室名；成人场景同样只写画面里应有的** — [Fellowi](https://fellowi.com/blog/nsfw-anime-ai-art) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3、15.2
 
-### 8.3 胶片与摄影风格(1)
+### 8.3 胶片与摄影风格(2)
 
 - **#1247 闺房写真“暗示性遮盖”：成年女性裹着超大白色亚麻床单坐在床沿、视线移开，对焦锁在裸肩和亚麻纹理，晨光透过薄纱窗帘、高调光、柔和胶片颗粒；换天鹅绒/金色时刻/冷冬光即可变体；Qwen Image 2512 CFG 3.0–3.5、30 步、3:4** — [Proxima Pictures（proxima.art）](https://proxima.art/prompt/boudoir-portrait-with-linen-sheet) · 实测 · 许可标注:未标注
+- **#1303 成人向编辑风 boudoir 肖像靠“光、面料、构图”而不是暴露来营造亲密感：一盏柔和定向光塑造轮廓＋深而柔的阴影＋大量负空间＋85mm f/2.0、胶片颗粒、低饱和电影调色；服装与场景要共用同一个光源，姿势保持克制（手在锁骨、视线移开、肩膀转向光）** — [PromptsRush（promptsrush.com）](https://promptsrush.com/prompts/editorial-boudoir-portrait-prompt) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 
 ## 10 发型饰品(2 条)
 
