@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 305 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 308 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -211,10 +211,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(54 条)
+## 5 光影氛围(55 条)
 
 
-### 5.1 光源与方向(23)
+### 5.1 光源与方向(24)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -239,6 +239,7 @@
 - **#1203 成人向低调光（low key）：必须成对写“亮锚点+纯黑”（rim of light on skin / sculpted highlights + deep black shadows / mostly in shadow），负面点名 fill light、even lighting、gray shadows、muddy；CFG 6–8、28–35 步、ADetailer 去噪 0.3 防提亮暗半脸，并点名分割光/伦勃朗等单一光型** — [AI Image Generator NSFW（aiimagegeneratornsfw.com）](https://aiimagegeneratornsfw.com/how-to-make-low-key-nsfw-ai-photos-2026/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.7
 - **#1216 成人向闺房摄影的光与机位：窗光做主光（左侧薄纱透进的晨光）、床头灯做暖色补光，冷暖平衡；三分之四身侧身、视线略离镜头更显私密，直视则偏对峙感；写明相机参数与“自信、尊严”指向** — [Strategy Master AI（strategymasterai.com）](https://strategymasterai.com/nano-banana-prompts-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6
 - **#1239 成人向（非露骨）闺房人像布光拆成三个独立决定：阴影边缘软或硬、光从哪个方向来、背景多亮；三套方案（侧窗光、柔光棚、侧光暗调）都要写“想看见的结果”，如双眼可读、远侧脸颊柔和阴影、深色衣服与墙分开；每次只改一个光线指令再对比** — [AIGirlShot Blog（aigirlshot.com）](https://aigirlshot.com/blog/boudoir-photography-lighting) · 实测 · 许可标注:未标注
+- **#1327 成人向私房/内衣主题按“地点先行”定概念：卧室（慢早晨、凌乱床铺俯拍、床沿坐姿）、单件道具（梳妆台镜面、单人扶手椅、贵妃榻、窗框逆光剪影）、情绪（明亮通透/暗调单侧光/复古好莱坞/胶片感），一组只做两三个场景** — [Revealry（revealryboudoir.com）](https://revealryboudoir.com/lingerie-photoshoot-ideas/) · 教程/文章 · 许可标注:未标注
 
 ### 5.3 室内光源与色温(6)
 
@@ -505,18 +506,19 @@
 
 - **#175 分级标签 general / sensitive / nsfw / explicit 的控制** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（レーティング）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注
 
-## 19 年龄与体型锚点(12 条)
+## 19 年龄与体型锚点(14 条)
 
 
-### 19.1 成年角色锚点(5)
+### 19.1 成年角色锚点(6)
 
 - **#229 体型提示的“成年地板”：mature female 必写＋负面成人块** — [PROMPT ABYSS Body Physique Prompt Master Guide](https://promptabyss.com/body-physique-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 - **#1084 丰满成年女性私房姿势的三个共同点：拉长躯干、做出腰臀 S 曲线、四肢斜放不压平；梨形身材引导视线向上并扭腰，苹果形身材用侧角度以腿和肩领先** — [Bri Valiente Boudoir](https://brivaliente.com/2026/09/15/plus-size-boudoir-poses/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、19.2
 - **#1112 Illustrious 画成人向内容时年龄会被拉低：负面框补 loli, shota, child, aged_down，正向写 mature 相关词；Illustrious 不认 Pony 的 score 标签，重要内容放前面、长提示把质量词挪到末尾** — [Civitai (Arctenox)](https://civitai.com/articles/23210/arctenoxs-simple-prompt-guide-for-illustrious-for-comfyuisite) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.2、18.1
 - **#1175 无审查动漫模型的成年锚点与标签顺序：1girl 只是人数不是年龄，必须加 mature female/adult woman/具体 30+ 岁/mature face；脸显小就补年龄数字与 smile lines、删校园词** — [SpicyAPI Blog（spicyapi.ai）](https://spicyapi.ai/blog/danbooru-tags-nsfw-anime-guide) · 实测 · 许可标注:未标注
 - **#1271 成人向动漫模型（Anima Turbo）的标签顺序与分级标签：质量词→分级标签（safe / sensitive / nsfw…）→人数→成年声明（adult woman, mature female）→角色块（发型、瞳色、一个标志性痣）→服装/地点/姿势/光；角色块整段复用＋锁种子，一次只改一个子句** — [SpicyAPI Blog（spicyapi.ai）](https://spicyapi.ai/blog/how-to-make-nsfw-anime-art-with-ai) · 实测 · 许可标注:未标注 · 次要子分类:15.1
+- **#1287 成人向非露骨肖像的八格概念表：成年角色与外貌、服装与造型、地点、光线、机位、表情、画风、画幅方向，先出基础版再逐项小改，发布前按“年龄外观、脸、手与比例、服装一致、背景、文字、是否像真人、平台规则”核对** — [artdaily（artdaily.com）](https://artdaily.com/news/199547/How-To-Make-NSFW-Images-with-AI) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.4、5.1
 
-### 19.2 体型词汇(6)
+### 19.2 体型词汇(7)
 
 - **#228 成人体型词汇：一个主体型＋至多两个辅助特征** — [AI Image Generator NSFW Body Type Prompts 2026](https://aiimagegeneratornsfw.com/nsfw-ai-body-type-prompts-2026/) · 教程/文章 · 许可标注:未标注
 - **#269 体型尺寸词：叠加形容词有效，罩杯与数字无效** — [Kawaii Prompt Lab（Breast Size Ultimate Guide）](https://kawaiipromptlab.com/en/tips/breast-size-ultimate-guide/) · 实测 · 许可标注:未标注
@@ -524,6 +526,7 @@
 - **#1056 成人向提示六段式：谁（成年年龄+体型+发+肤）→ 穿着 → 动作表情 → 地点 → 光与机位 → 风格，最重要的放最前；光照和镜头词比 8k masterpiece 更能去 AI 味；体型只用一个朴素词（curvy / athletic / slim），不叠夸张形容词** — [The Porn Chad](https://thepornchad.com/guides/nsfw-ai-prompts/) · 教程/文章 · 许可标注:未标注
 - **#1063 成人向体型写法：先用一个朴素体型词（slim / athletic / curvy / plus-size…）再加至多一个修饰；比例写成身体部位之间的关系（肩比髋宽、腰细髋宽）而不是数字三围；身高要有参照物；年龄写成具体年代（四十出头、五十多岁），petite 只是体格必须配成年锚点** — [Fellowi](https://fellowi.com/blog/nsfw-ai-body-types) · 教程/文章 · 许可标注:未标注
 - **#1104 成人向体型锚点词典：开头先锚年龄（adult woman, late 20s / mature woman, 40s），再从 curvy、hourglass figure、plus size、thick thighs、wide hips、athletic build、muscular woman、toned stomach 等里挑，每个词只管一件事；胸型 large / small 只选一个，natural breasts 去掉默认的圆形假体感** — [MadePrompt](https://madeprompt.com/x-rated-ai-lab-article/nsfw-prompt-dictionary/) · 教程/文章 · 许可标注:未标注 · 次要子分类:19.1
+- **#1319 成人向熟女角色写实：年龄只写一次、写在前面、用数字（40 year old woman），别叠 mature/older 等多个年龄信号；删掉 flawless/perfect/beautiful 这类“减龄词”，用 visible pores、fine lines around the eyes 承载成熟感；用定向暖光和近景/中景，全身构图会把脸画年轻** — [nocensor.ai 博客](https://nocensor.ai/blog/ai-milf-generator-prompts-for-realism) · 实测 · 许可标注:未标注 · 次要子分类:5.3、19.1
 
 ### 19.3 创作边界与安全清单(1)
 
