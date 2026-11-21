@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 310 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 311 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -114,7 +114,7 @@
 - **#619 成人向镜面私房布光：主灯放在人和镜子之间、与脸成 45°，大柔光源让本体与倒影都读得清；倒影略暗反而增加纵深；f/4–f/8 让两者都清晰** — [Boudoir Inspiration / Tov Studio Photo](https://www.boudoirinspiration.com/the-secrets-to-perfect-mirror-reflection-lighting-in-boudoir) · 教程/文章 · 许可标注:未标注
 - **#912 成人向私房的椅子和镜子当道具用：正常坐椅子会折短躯干出褶，改成深陷椅中屈膝挡腹、滑到椅边弓背拉长、或半躺；镜子从肩后越过拍、只取想要的反射、大光圈让镜中像清晰而实体虚化；原则是“推向镜头的会变大，推远的会变小”** — [JG Boudoir](https://jgboudoir.com/boudoir-posing-tips/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 
-## 3 裸露液体(13 条)
+## 3 裸露液体(14 条)
 
 
 ### 3.1 湿身与透视(6)
@@ -135,9 +135,10 @@
 - **#1181 成人向写实皮肤四杠杆（Qwen Image 3 Spicy）：毛孔细节、次表面散射光、表面状态对比（汗光/油光 vs 粗麻布）、无负面框时用正向“未修图”措辞并前置** — [Siray.AI Blog（blog.siray.ai）](https://blog.siray.ai/qwen-image-3-spicy-prompting/) · 实测 · 许可标注:未标注 · 次要子分类:18.2
 - **#1230 成人向肌肤质感五档对照（同 seed 只换一组质感词）：干燥哑光（基准）→湿肌 (wet skin:1.3), dripping water→汗 (sweat:1.3), sweat drops, after workout→水珠 (water droplets on skin:1.3), after shower glow→油光 (oily skin:1.3), body oil sheen；配 warm light / rim light 让高光出来，出过头降到 1.1** — [ねこかわ（nekokawa.com）](https://nekokawa.com/post-1782668851-2/) · 实测 · 许可标注:未标注
 
-### 3.3 遮挡与露出边界(1)
+### 3.3 遮挡与露出边界(2)
 
 - **#176 covered xx 反效果与“遮挡”写法** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（ネガティブ・手で隠す）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
+- **#1351 成人向“暗示裸体”（implied topless/nude）的七种遮挡法：植物叶片、外套/披肩/布料、道具（吉他、书、羽毛、水果）、手与手臂、借室内物件的走位（背面裸）、光影切割、烟雾/泡泡/彩色粉尘/水/油彩等创意遮挡——看起来上身裸露，实际关键部位全被遮住** — [Velvet Thyme（velvetthyme.com.au）](https://www.velvetthyme.com.au/2024/04/implied-topless-photography-7-techniques/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1、13.1
 
 ## 4 服装专项(49 条)
 

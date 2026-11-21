@@ -3,7 +3,7 @@
 | 文件 | 大小(字节) | sha256 |
 |---|---|---|
 | data/nsfw/categories.jsonl.gz | 740 | 6530ae8d25ee89a573c4f4938f0404de734cc104185fc39b71e2de5846886bdb |
-| data/nsfw/collected_refs.jsonl.gz | 198487 | d327eb7e2f1aa812ad73ba4b446217e1f397e61e5b94d14df735880d3ddfc43f |
+| data/nsfw/collected_refs.jsonl.gz | 199663 | 83b38063f4328474c41aabf0717bc12db651eeb9c658506cf5e019f124e18b1a |
 | data/nsfw/entries_shuaihui.jsonl.gz | 127182 | 5c64a2907d64039513d10e372eb22e66c22d3e9c96d33632f489ce8ecbee0281 |
 | data/nsfw/prompts_n714.jsonl.gz | 3601 | ec3762259d6c889a18691f9988853754af5b5d40bb40aace8b649733c374e88d |
 | data/nsfw/subcategories.jsonl.gz | 3136 | af61e8e196cf51d0eb7402ea2b9616cf45233ee3a76f3d17f122205d635c30a3 |
@@ -11,5 +11,5 @@
 | data/nsfw/tags_jio7_01.jsonl.gz | 19141 | 7e23327129446c51ddd93976c3e8fc1fbccce8e7c09431e2324d984a01c43532 |
 | data/sources.jsonl.gz | 690 | 6ded76d097d080539d4193735d4f5c4577a4831d321a1633ee278ddcb3225440 |
 
-合计 410326 字节(最大单文件 198487 字节)。
+合计 411502 字节(最大单文件 199663 字节)。
 注:gzip 以 mtime=0 写出,重新导出得到相同内容。
