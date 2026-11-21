@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 308 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 310 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -42,7 +42,7 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(53 条)
+## 2 景别构图(54 条)
 
 
 ### 2.1 景别与取景(8)
@@ -56,7 +56,7 @@
 - **#1202 成人向艺术人体的取景：公式“成年主体+视角/姿势+取景范围+光+场景+摄影处理”，取景写成可决定的具体范围（from the shoulders to the hips）、用近距裁切把身体变成曲线“风景”、主体只占三分之一配大片暗部留白；相机参数不能替代说清“相机看到什么”** — [Figureloom Guides（figureloom.com）](https://figureloom.com/guides/fine-art-nude-ai-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.4
 - **#1295 成人向图像的取景与画幅对齐：景别词要和画幅配对（全身/站姿→9:16，肖像/中景→3:4，带环境→4:3，横躺或双人宽景→16:9，头肩→1:1），一张图只写一个姿势，主体首句写明成年年龄段，镜头 85/50/35mm 对应肖像/中景/全身** — [Nextpart AI Blog（nextpart.ai）](https://nextpart.ai/blog/nsfw-ai-image-prompts-2026-10-27) · 实测 · 许可标注:未标注 · 次要子分类:2.3、6.1
 
-### 2.2 机位与视角(22)
+### 2.2 机位与视角(23)
 
 - **#34 第一人称 POV 控制（Illustrious LoRA 经验）** — [Civitai (Female POV LoRA)](https://civitai.com/models/1460002/female-pov-1st-person-point-of-view) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.4
 - **#141 成人向机位清单：机位高度/景别/镜头词** — [Fellowi Blog（NSFW 姿势与机位）](https://fellowi.com/blog/nsfw-ai-poses-and-camera-angles) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1、2.3
@@ -80,6 +80,7 @@
 - **#1189 成人向提示词五要素（主体→姿势/动作→景别机位→光源→渲染风格），具体胜过露骨；不想要的东西用正向替代描述而非否定词，按一次加一维的方式迭代** — [Nureta Developer Blog（developer.nureta.ai）](https://developer.nureta.ai/blog/nsfw-image-prompt-guide) · 实测 · 许可标注:未标注 · 次要子分类:5.1
 - **#1224 成人向 NovelAI 机位标签对照测试：固定人物与姿势只换 from front / side / behind / back / above / below / diagonal；from back 比 from behind 更容易出正背面全臀，from above 配上目遣い最实用，from below 强调腿与躯干；from afar、from over shoulder 基本无效** — [エロプロンプト（ero-prompt.com）](https://ero-prompt.com/?p=5373) · 实测 · 许可标注:未标注
 - **#1263 成人向泳装/内衣写真四模型同提示对照（ComfyUI：HARUKI_MIX ZIT2606Real、Z-Image Turbo、FLUX.2 Dev、RealVisXL V5.0）：共用末尾写死“清楚的成年 20 岁原创女性＋不透明全衬里遮盖＋单人＋无文字”，正文按 Camera/Pose/Expression/Wardrobe/Scene/Light 分段；同种子换模型人物不会一致，单人、低机位、闭眼、短款等指定各模型达成率不同** — [イカムフォート・プロンプト（ikam-faut.com）](https://ikam-faut.com/posts/00073/) · 实测 · 许可标注:未标注 · 次要子分类:3.1、4.5
+- **#1343 成人向私房的机位与取景：相机放在眼平或略高、绝不从下往上；仰躺从脚端上方斜拍而不是正上方；身体斜放占满画面；“遮与露”的交界线放在三分线上；无脸的锁骨肩线特写和脚踝细节帧给成套图做节奏** — [PhotoMorning（photomorning.com）](https://photomorning.com/articles/31-boudoir-poses-and-ideas.html) · 教程/文章 · 许可标注:未标注
 
 ### 2.3 镜头焦段与景深(8)
 
@@ -211,10 +212,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(55 条)
+## 5 光影氛围(56 条)
 
 
-### 5.1 光源与方向(24)
+### 5.1 光源与方向(25)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -240,6 +241,7 @@
 - **#1216 成人向闺房摄影的光与机位：窗光做主光（左侧薄纱透进的晨光）、床头灯做暖色补光，冷暖平衡；三分之四身侧身、视线略离镜头更显私密，直视则偏对峙感；写明相机参数与“自信、尊严”指向** — [Strategy Master AI（strategymasterai.com）](https://strategymasterai.com/nano-banana-prompts-boudoir-photography/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.6
 - **#1239 成人向（非露骨）闺房人像布光拆成三个独立决定：阴影边缘软或硬、光从哪个方向来、背景多亮；三套方案（侧窗光、柔光棚、侧光暗调）都要写“想看见的结果”，如双眼可读、远侧脸颊柔和阴影、深色衣服与墙分开；每次只改一个光线指令再对比** — [AIGirlShot Blog（aigirlshot.com）](https://aigirlshot.com/blog/boudoir-photography-lighting) · 实测 · 许可标注:未标注
 - **#1327 成人向私房/内衣主题按“地点先行”定概念：卧室（慢早晨、凌乱床铺俯拍、床沿坐姿）、单件道具（梳妆台镜面、单人扶手椅、贵妃榻、窗框逆光剪影）、情绪（明亮通透/暗调单侧光/复古好莱坞/胶片感），一组只做两三个场景** — [Revealry（revealryboudoir.com）](https://revealryboudoir.com/lingerie-photoshoot-ideas/) · 教程/文章 · 许可标注:未标注
+- **#1335 成人向私房布光六配方，一次只用一种光源：45° 窗光、灯打墙反射、床头灯快速衰减、百叶窗条纹硬光、三支以上蜡烛聚成一个光源、浴后蒸汽逆光剪影；百叶窗要让条纹斜穿肩和胯、衣服选质感不选花纹** — [MyPhotoAI（myphotoai.io）](https://myphotoai.io/boudoir-lighting-ideas/) · 教程/文章 · 许可标注:未标注
 
 ### 5.3 室内光源与色温(6)
 
