@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 311 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 314 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(19 条)
@@ -42,7 +42,7 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(54 条)
+## 2 景别构图(55 条)
 
 
 ### 2.1 景别与取景(8)
@@ -56,7 +56,7 @@
 - **#1202 成人向艺术人体的取景：公式“成年主体+视角/姿势+取景范围+光+场景+摄影处理”，取景写成可决定的具体范围（from the shoulders to the hips）、用近距裁切把身体变成曲线“风景”、主体只占三分之一配大片暗部留白；相机参数不能替代说清“相机看到什么”** — [Figureloom Guides（figureloom.com）](https://figureloom.com/guides/fine-art-nude-ai-prompts) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、2.4
 - **#1295 成人向图像的取景与画幅对齐：景别词要和画幅配对（全身/站姿→9:16，肖像/中景→3:4，带环境→4:3，横躺或双人宽景→16:9，头肩→1:1），一张图只写一个姿势，主体首句写明成年年龄段，镜头 85/50/35mm 对应肖像/中景/全身** — [Nextpart AI Blog（nextpart.ai）](https://nextpart.ai/blog/nsfw-ai-image-prompts-2026-10-27) · 实测 · 许可标注:未标注 · 次要子分类:2.3、6.1
 
-### 2.2 机位与视角(23)
+### 2.2 机位与视角(24)
 
 - **#34 第一人称 POV 控制（Illustrious LoRA 经验）** — [Civitai (Female POV LoRA)](https://civitai.com/models/1460002/female-pov-1st-person-point-of-view) · 教程/文章 · 许可标注:未标注 · 次要子分类:17.4
 - **#141 成人向机位清单：机位高度/景别/镜头词** — [Fellowi Blog（NSFW 姿势与机位）](https://fellowi.com/blog/nsfw-ai-poses-and-camera-angles) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.1、2.3
@@ -81,6 +81,7 @@
 - **#1224 成人向 NovelAI 机位标签对照测试：固定人物与姿势只换 from front / side / behind / back / above / below / diagonal；from back 比 from behind 更容易出正背面全臀，from above 配上目遣い最实用，from below 强调腿与躯干；from afar、from over shoulder 基本无效** — [エロプロンプト（ero-prompt.com）](https://ero-prompt.com/?p=5373) · 实测 · 许可标注:未标注
 - **#1263 成人向泳装/内衣写真四模型同提示对照（ComfyUI：HARUKI_MIX ZIT2606Real、Z-Image Turbo、FLUX.2 Dev、RealVisXL V5.0）：共用末尾写死“清楚的成年 20 岁原创女性＋不透明全衬里遮盖＋单人＋无文字”，正文按 Camera/Pose/Expression/Wardrobe/Scene/Light 分段；同种子换模型人物不会一致，单人、低机位、闭眼、短款等指定各模型达成率不同** — [イカムフォート・プロンプト（ikam-faut.com）](https://ikam-faut.com/posts/00073/) · 实测 · 许可标注:未标注 · 次要子分类:3.1、4.5
 - **#1343 成人向私房的机位与取景：相机放在眼平或略高、绝不从下往上；仰躺从脚端上方斜拍而不是正上方；身体斜放占满画面；“遮与露”的交界线放在三分线上；无脸的锁骨肩线特写和脚踝细节帧给成套图做节奏** — [PhotoMorning（photomorning.com）](https://photomorning.com/articles/31-boudoir-poses-and-ideas.html) · 教程/文章 · 许可标注:未标注
+- **#1367 成人向私房（boudoir）摆姿与机位：四肢成角度不与镜头平行或垂直、尽量收出腰线、伸展一条腿或微微拱背拉长身形；机位平视或略高于眼睛（略俯拍比仰拍讨喜）；主光模拟侧上方大窗的软光或伦勃朗 45°；高调明亮与低调暗沉两种气质二选一** — [That Toronto Studio（thattorontostudio.ca）](https://www.thattorontostudio.ca/blog/how-to-photograph-boudoir-in-a-studio) · 教程/文章 · 许可标注:未标注
 
 ### 2.3 镜头焦段与景深(8)
 
@@ -140,7 +141,7 @@
 - **#176 covered xx 反效果与“遮挡”写法** — [スタジオ真榊 画像生成プロンプト大辞典（illustrious向け）（ネガティブ・手で隠す）](https://studiomasakaki.com/articles/10051055/) · 教程/文章 · 许可标注:未标注 · 次要子分类:18.2
 - **#1351 成人向“暗示裸体”（implied topless/nude）的七种遮挡法：植物叶片、外套/披肩/布料、道具（吉他、书、羽毛、水果）、手与手臂、借室内物件的走位（背面裸）、光影切割、烟雾/泡泡/彩色粉尘/水/油彩等创意遮挡——看起来上身裸露，实际关键部位全被遮住** — [Velvet Thyme（velvetthyme.com.au）](https://www.velvetthyme.com.au/2024/04/implied-topless-photography-7-techniques/) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1、13.1
 
-## 4 服装专项(49 条)
+## 4 服装专项(50 条)
 
 
 ### 4.1 日常服饰与款式词典(4)
@@ -150,7 +151,7 @@
 - **#792 成人向“只穿西装外套”私房（oversized blazer）：同一件外套同时说“职场的自信”和“私下的放松”；长度到臀或略低最协调、太短会和下半身断开；硬挺的羊毛或亚麻比软塌化纤好；敞开显松弛、扣上一粒显气场、袖子推上去去掉正式感，翻领、袖口、下摆和口袋就是手的落点** — [Liz by Design Photography / Revealed Studios / The Josh Studio / Inna Portraits](https://lizbydesignphoto.com/boudoir-photography-outfit-ideas/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、6.1
 - **#1139 成人向情侣图六槽公式：两位有区分特征的成年角色＋具体互动＋场景＋光＋风格＋质量词；互动槽最重要，升温只改姿势和服装槽、写衣着与距离不写解剖，系列图锁种子并逐字复用角色卡** — [SpicyLab Blog](https://spicylabai.app/ai-porn-prompts-for-couples/) · 实测 · 许可标注:未标注 · 次要子分类:1.5、15.1
 
-### 4.2 面料与材质(17)
+### 4.2 面料与材质(18)
 
 - **#26 面料语汇控制透出肌肤的程度** — [PROMPT ABYSS](https://promptabyss.com/lingerie-prompt-master-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:3.1
 - **#106 tag-skill：透明感化学反应（see-through + shiny clothes）** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:3.1
@@ -169,6 +170,7 @@
 - **#1077 成人内衣/闺房摄影提示：结构写“主体＋服装细节＋姿势＋光线＋场景＋风格”，面料要具体（French lace、silk charmeuse、sheer tulle、velvet），按用途选光（窗光=浪漫闺房、butterfly=时尚、rim/backlit=剪影、low-key=艺术），核心元素控制在 5–6 个** — [Fizzly Blog](https://www.fizzly.ai/blog/ai-lingerie-generator-guide) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4、5.1
 - **#1210 内衣提示词按“种类→素材→装饰”逐层加：先定 bra / panties / slip / camisole / garter belt 的具体型号，再加 lace、satin、mesh 等材质；名字相近的型号主要差在缝线、杯型、背带与后片覆盖范围，后片差异要用背面构图看** — [UruruAILab（ururuailab.com）](https://ururuailab.com/sd-prompt-underwear/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.4
 - **#1255 成人向泳装/内衣写真：结构 [体型]+[服装细节]+[光]+[姿势]+[背景]+[镜头/风格]；面料词 sheer fabric detail、lace texture、satin sheen 提升真实感；常见翻车（肩带变形、多余肚脐、多人入镜、塑料脸）分正/负面词修；内衣用 2:3、泳装用 4:5，避免 1:1** — [AITwin.ninja（aitwin.ninja）](https://aitwin.ninja/create-ai-swimwear-lingerie-photos/) · 教程/文章 · 许可标注:未标注
+- **#1359 成人向内衣/泳装人像（GPT Image 2）：用“版型工艺词”而不是品类词（demi-cup lace、scalloped edging、double side ties 等可数物件才会被画出来）；画幅 3:4 只在开头写一次；机位是决定而非姿势（侧面对话距离/低角仰拍/床垫或腰高微仰/平视正面近景）；光只给一个任务（轮廓分离/掠射质感/硬主光无补光）** — [Prompt Genius（promptgenius.net）](https://promptgenius.net/prompts/gpt-image/lingerie-swimwear-portraiture) · 实测 · 许可标注:未标注
 
 ### 4.3 穿着状态与穿脱(7)
 
@@ -354,7 +356,7 @@
 - **#267 姿势锚点：先固定手脚，再倾斜上身** — [Kawaii Prompt Lab（Breast-Emphasizing Composition and Poses Guide）（Emphasizing with Pose）](https://kawaiipromptlab.com/en/tips/breast-emphasis-composition-guide/) · 实测 · 许可标注:未标注
 - **#290 成人向姿势三规则：先基础姿态，再朝向，最后≤2 个肢体细节** — [AI Image Generator NSFW Pose Prompts 2026](https://aiimagegeneratornsfw.com/nsfw-ai-pose-prompts-2026/) · 教程/文章 · 许可标注:未标注
 
-## 7 表情眼神(14 条)
+## 7 表情眼神(15 条)
 
 
 ### 7.1 基础情绪表情(2)
@@ -370,7 +372,7 @@
 
 - **#1223 成人向快感表情分级写法（PixAI Tsubaki.2 自然语言）：先定强度再加部件——轻度“目を潤ませ蕩けた表情”→中度“焦点の合わない目、舌を出す”→重度“白目・涎”；白目/心形瞳/涎量自然语言不稳时补 rolling eyes、heart-shaped pupils、drooling** — [エロいAI屋さんの研究所（tech.eroiai.com）](https://tech.eroiai.com/ahegao-prompt/) · 教程/文章 · 许可标注:未标注
 
-### 7.5 暧昧与挑逗表情(10)
+### 7.5 暧昧与挑逗表情(11)
 
 - **#35 诱惑表情：seductive smile / sensual expression** — [で、AIはなんて？](https://ai-nante.com/seductive-expression-prompts/) · 教程/文章 · 许可标注:未标注
 - **#36 唇部与细节标签（配 seductive smile）** — [で、AIはなんて？](https://ai-nante.com/seductive-expression-prompts/) · 教程/文章 · 许可标注:未标注
@@ -382,6 +384,7 @@
 - **#113 ffdkj 热度榜：情绪/氛围类标签** — [GitHub ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table (MIT；数值为 2026-10-24 抓取的 post_count)](https://github.com/ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table) · 标签表/词频 · 许可标注:MIT
 - **#270 轻度愉悦表情：先放 relaxed face 再叠加** — [で、AIはなんて？ 快楽や恍惚の表情を描くプロンプト](https://ai-nante.com/ai-prompt-pleasure-face/) · 教程/文章 · 许可标注:未标注
 - **#1048 成人向私房的四种“性感表情”：闭眼深呼吸、齿合唇微张用嘴呼气的嘟唇、“知道秘密”的坏笑、三种眼神（直视镜头/只转眼不转头的侧眼 bedroom eyes/看向画外的无辜感）；smize 是放松下颌、微眯眼抬颧骨但不笑** — [Bell's Boudoir Photography](https://www.bellsboudoirphotography.com/the-boudoir-blog/how-to-look-sexy) · 教程/文章 · 许可标注:未标注
+- **#1375 成人向私房表情三招：“间谍眼”（像发现目标一样专注、目光像穿过镜头、微微眯眼＋藏着秘密的浅笑或坏笑）、“柔唇”（下颌放松、双唇微张，像要说一句耐人寻味的话或轻叹）、“招手式微笑”（眼神放柔＋嘴角轻扬不露齿大笑）；俏皮与性感交替出片** — [Stacie Frazier（staciefrazier.com）](https://www.staciefrazier.com/blog/hot-to-seduce-a-camera) · 教程/文章 · 许可标注:未标注 · 次要子分类:7.1、7.2
 
 ## 8 风格胶片(4 条)
 
