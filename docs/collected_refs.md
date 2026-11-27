@@ -2,7 +2,7 @@
 
 阿燐整理的成人向提示词资料(仅限成年人使用,内容均为成年角色/虚构设定):对公开教程、文章、仓库、实测的摘要、短提示词短语与来源链接。**许可不明或限制性许可的来源只保留摘要与链接,不转载原文。**
 
-共 330 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
+共 334 条。按「大类 → 子分类」排列;每条给出主题、来源链接、来源许可标注。摘要、提示词全文见 `data/nsfw/collected_refs.jsonl.gz`。
 
 
 ## 1 场景主题(20 条)
@@ -43,7 +43,7 @@
 
 - **#857 成人向概念私房 conceptual boudoir：整组照片围绕一个你选的想法/故事，服装、道具、场景、光、后期都为它服务；和经典私房（以舒适与讨好光为中心）、美妆摄影（脸与妆）区分；主题可从一个多年的梦、新篇章、里程碑或某个年代/地点出发** — [Boudoir Guru](https://boudoir.guru/what-is-conceptual-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 2 景别构图(60 条)
+## 2 景别构图(61 条)
 
 
 ### 2.1 景别与取景(8)
@@ -100,7 +100,7 @@
 - **#1035 成人向 implied 拍摄的遮挡物清单：背对镜头的脊柱弧线、侧身轮廓剪影、薄纱/帷幔、长发垂落遮住躯干、植物或书本放在前景、浅景深虚掉、斜搭的裙或外套** — [PhotoWhoa](https://www.photowhoa.com/blog/implied-photoshoot/) · 教程/文章 · 许可标注:未标注
 - **#1471 成人向魅惑/私房全身照的机位三条：腿离镜头比躯干近就会透视变形（低机位＋倾斜时腿显得巨大），要让腿和躯干保持在离镜头等距的同一平面，或退远换长焦；机位略低于视线、让人微微低头抬眼，得到“挑逗”而非“傲慢”的眼神；僵硬时先放松双肩，让手有事做（捻一缕头发、轻触肩带）并用眼角看镜头** — [New York Institute of Photography（courses.nyip.edu）](https://courses.nyip.edu/course_assets/lms-ck/f/files/NYI_Glamor.pdf) · 实测 · 许可标注:未标注 · 次要子分类:2.2、2.6
 
-### 2.4 构图法则与画幅(10)
+### 2.4 构图法则与画幅(11)
 
 - **#101 focus 焦点标签：armpit / ass / back focus** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/tag_group:focus_tags) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#111 tag-skill：head out of frame 层级裁切** — [GitHub 1756141021/tag-skill (MIT)](https://github.com/1756141021/tag-skill) · 仓库 · 许可标注:MIT · 次要子分类:2.1
@@ -112,6 +112,7 @@
 - **#716 成人向“减法”构图：让半暗决定看不见什么——低角度掠射光扫过锁骨、颈后和肩线，手放前景，超浅景深只对焦嘴唇，用床单和剪影暗示形体而不描述细节** — [Insight Adv](https://insightadv.it/en/blog/light-that-hides-how-to-photograph-intimacy-by-candlelight) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.3
 - **#1003 暗黑/浪漫/暗示向作品靠“暗示”而非露骨：先定“暗”具体指什么（低调光、哥特建筑服装、道德冲突、悲伤执念、超自然威胁、低饱和或高反差）；成年身份必须一眼可读（成人职业、环境、比例、造型，禁校园/低龄化服装与措辞——标签修不了看起来未成年的设计）；用双向主动的肢体语言表现同意（对视、镜像姿态、彼此靠近、伸手等待回应），不把恐惧、束缚、失去意识、醉酒、权力不对等浪漫化；用服装做角色设计、用距离讲故事、用有来由的光带情绪；构图服务故事而非解剖** — [Elser AI Blog](https://www.elser.ai/blog/how-to-create-dark-romantic-or-suggestive-art-without-crossing-nsfw-boundaries) · 实测 · 许可标注:未标注
 - **#1167 成人向双人构图：左/右位置标签分别描述两位成年人再写共同动作，写清接触点与支撑点，侧面或三分之四视角比正面裁切更不易互相遮挡；每次只修一处接触关系** — [Viralkey（viralkey.ai）](https://viralkey.ai/nsfw-couple-poses) · 实测 · 许可标注:未标注 · 次要子分类:2.1、2.2
+- **#1535 成人向私房道具当“构图工具”用：前景放枕头或毯子做遮挡和纵深、薄纱窗帘既柔化窗光又可半遮画面、长袍滑落挂在手腕上制造动势、镜子做第二视角、香薰蜡烛和绿植只放背景增加环境感；道具宁少勿俗** — [Zenfolio](https://zenfolio.com/boudoir-photography/boudoir-photography-tips/) · 教程/文章 · 许可标注:未标注 · 次要子分类:2.2、13.1
 
 ### 2.5 镜中与反射(5)
 
@@ -223,10 +224,10 @@
 - **#97 bare back / backless outfit 背部露出** — [Danbooru Wiki (社区维基，无明确开源许可，仅摘要+短标签)](https://danbooru.donmai.us/wiki_pages/bare_back) · 社区维基 · 许可标注:无明确许可(仅摘要/链接)
 - **#268 横乳/下乳/侧谷间对照：露出程度与服装副作用** — [Kawaii Prompt Lab（Sideboob & Underboob Prompt Test）](https://kawaiipromptlab.com/en/tips/sideboob-underboob-test/) · 实测 · 许可标注:未标注
 
-## 5 光影氛围(61 条)
+## 5 光影氛围(62 条)
 
 
-### 5.1 光源与方向(27)
+### 5.1 光源与方向(28)
 
 - **#40 丝绸闺房窗光（CarePhoto 提示词）** — [CarePhoto AI](https://www.carephoto.art/prompt-bank/boudoir-silk-window-light) · 教程/文章 · 许可标注:未标注 · 次要子分类:1.1
 - **#202 光线方向短语与四种胶片调色** — [PicassoIA Blog（5 Camera Angle Prompts for Adult AI Photos）（Lighting Direction & Film Stock）](https://blog.picassoia.com/5-camera-angle-prompts-for-adult-ai-photos) · 教程/文章 · 许可标注:未标注 · 次要子分类:8.3
@@ -255,6 +256,7 @@
 - **#1335 成人向私房布光六配方，一次只用一种光源：45° 窗光、灯打墙反射、床头灯快速衰减、百叶窗条纹硬光、三支以上蜡烛聚成一个光源、浴后蒸汽逆光剪影；百叶窗要让条纹斜穿肩和胯、衣服选质感不选花纹** — [MyPhotoAI（myphotoai.io）](https://myphotoai.io/boudoir-lighting-ideas/) · 教程/文章 · 许可标注:未标注
 - **#1391 成人向情侣私房的双人布光与动作：柔窗光里让一人略靠近光源，避免两张脸一样平（要统一不要雷同）；伦勃朗式单侧光下两人半转向彼此、一张脸亮一张脸落入柔影，做出主次；剪影要背景比人亮、两人之间留小缝隙（颈线、腰间的手、亲吻前额头间的一点空）；动作写“路径”而不是位置（近到唇不碰、停住呼吸）** — [PhotoMaxi（photomaxi.com）](https://photomaxi.com/blog/nude-couple-photography) · 教程/文章 · 许可标注:未标注
 - **#1463 成人私房的“通透逆光”和“剪影”可以用同一套窗光布置切换：人物背对挂白纱帘的窗、纱帘把光变柔变匀；加一块白色反光板把光反打回人物＝明亮梦幻、眼里有眼神光；撤掉反光板并按窗户亮度曝光（快门提高约 10 倍）＝人物变成深色剪影** — [Boudoir By Shelby（shelbyleigh.com）](https://shelbyleigh.com/boudoir/photographers-how-to-backlit-dreamy-set-up-plus-silhouettes/) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.5
+- **#1519 成人向私房（boudoir）布光：先从大而近的柔光开始再谈戏剧光；方向比亮度重要——侧光和 short lighting（照亮远离镜头那半边脸）塑形显瘦，broad lighting 会让脸显宽，正面光会压平身体；阴影要“受控”保留细节，关掉顶灯、不混色温；浪漫/暗调感性/魅惑/黑白四种情绪各配一套光** — [Your Hollywood Portrait](https://yourhollywoodportrait.weebly.com/home/boudoir-photography-lighting-a-comprehensive-guide) · 教程/文章 · 许可标注:未标注
 
 ### 5.3 室内光源与色温(7)
 
@@ -302,7 +304,7 @@
 - **#1161 成人向四种类型的光影/风格/构图配方：写实人体＝窗侧光＋柔轮廓光、古典油画＝强烈明暗对比＋单烛光、电影感闺房＝霓虹轮廓光＋钨丝灯＋雾、2D 动漫＝高调棚光＋清晰边缘高光；用 raking/low-key 代替 beautiful** — [Fxroom (fxroom.ai)](https://fxroom.ai/blog/nsfw-ai-prompts-guide) · 实测 · 许可标注:未标注
 - **#1431 成人向淋浴私房的“湿”要服务于暗示而不是暴露：肩头接水流、手贴瓷砖、隔着蒸汽的侧脸、背部曲线、湿布料贴身；造型决定基调——湿白棉衬衫偏古典浪漫、水下黑色内衣更大胆编辑感、薄纱睡袍有层次，裸身则靠线条、阴影和剪影；光比水更重要** — [TNM Creative](https://tnmcreative.ca/2026/06/27/shower-boudoir-photography/) · 实测 · 许可标注:未标注 · 次要子分类:4.4
 
-## 6 姿势动作(44 条)
+## 6 姿势动作(45 条)
 
 
 ### 6.1 站立与全身姿态(18)
@@ -345,10 +347,11 @@
 - **#829 成人向“地板躺姿”私房（没有床也能拍）：地上铺毯子或仿皮草地毯，把床上五个姿势（俯卧、手脚撑起拱背、侧卧、仰躺、换边侧卧）搬到地上，最大好处是能从正上方俯拍；靠四肢摆出“三角形”和留空制造曲线，头发在地毯上铺开，下巴转出下颌线，光源放在头顶一侧** — [Shutterbug（Yuliya Panchenko）/ Ed Verosky / McBoudoir](https://www.shutterbug.com/content/top-5-boudoir-photography-poses-floor) · 教程/文章 · 许可标注:未标注
 - **#1042 成人向私房十个基础姿势按“站→坐→跪→躺”排序：背身站、正面不对称站、斜坐椅边、反跪椅背、侧坐床、背坐回眸、俯卧抬小腿、四肢撑地、仰躺俯拍、侧卧收尾；每个姿势再换机位、裁切、视线、手和布料出多张** — [My Beautiful Boudoir Studio](https://www.mybeautifulboudoir.co.uk/boudoir-photography-workshop-leicester/boudoir-photography-posing-guide/) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.1
 
-### 6.5 手部与手势(2)
+### 6.5 手部与手势(3)
 
 - **#419 成人向角色图的手：五种症状与修法，双人只留一个接触点** — [Fellowi Blog Hands in Adult AI Character Art](https://fellowi.com/blog/nsfw-ai-hands-and-gestures) · 教程/文章 · 许可标注:未标注 · 次要子分类:6.6
 - **#726 成人向私房手部摆放：只用指尖触碰衣物和身体、手指微卷不平贴、用“动作”带出手（把头发拨到耳后、手指沿颈部滑下）、小指一侧对镜头、左右不对称；把手藏起来反而最有暗示性** — [Couture Boudoir](https://www.coutureboudoir.com/boudoir-tips-for-photographers-posing-hands/) · 教程/文章 · 许可标注:未标注
+- **#1511 成人向情侣私房的双人姿势四原则：接触胜过完美（手轻放在对方下颌、额头相抵）、颧骨朝向光源免得低头把脸埋进阴影、不对称——一人稳定不动另一人前倾或移重心、手要“有事做”（掌心贴对方胸口、手指松松相扣、托住后颈）；服装求“协调不撞衫”，暗示而非露骨** — [Royal Lune Photo](https://royallunephoto.com/2026/06/30/ultimate-couples-boudoir-guide/) · 实测 · 许可标注:未标注 · 次要子分类:4.2、5.1
 
 ### 6.6 双人与多人互动(4)
 
@@ -414,12 +417,13 @@
 - **#1247 闺房写真“暗示性遮盖”：成年女性裹着超大白色亚麻床单坐在床沿、视线移开，对焦锁在裸肩和亚麻纹理，晨光透过薄纱窗帘、高调光、柔和胶片颗粒；换天鹅绒/金色时刻/冷冬光即可变体；Qwen Image 2512 CFG 3.0–3.5、30 步、3:4** — [Proxima Pictures（proxima.art）](https://proxima.art/prompt/boudoir-portrait-with-linen-sheet) · 实测 · 许可标注:未标注
 - **#1303 成人向编辑风 boudoir 肖像靠“光、面料、构图”而不是暴露来营造亲密感：一盏柔和定向光塑造轮廓＋深而柔的阴影＋大量负空间＋85mm f/2.0、胶片颗粒、低饱和电影调色；服装与场景要共用同一个光源，姿势保持克制（手在锁骨、视线移开、肩膀转向光）** — [PromptsRush（promptsrush.com）](https://promptsrush.com/prompts/editorial-boudoir-portrait-prompt) · 教程/文章 · 许可标注:未标注 · 次要子分类:5.1
 
-## 10 发型饰品(3 条)
+## 10 发型饰品(4 条)
 
 
-### 10.1 发型发色与刘海(1)
+### 10.1 发型发色与刘海(2)
 
 - **#1439 成人向私房的发型要和服装与布景配套：缎面/蕾丝内衣配柔和浪漫大波浪或松散卷发，复古/pin-up 造型配复古卷或胜利卷（victory rolls），极简现代风配低马尾或顺直长发；想要“刚起床”的性感感就写蓬松凌乱的大卷（bedhead）；唇妆用哑光不用亮面、底妆偏哑光、睫毛浓密** — [Betsy McCue Pictures（betsymccuepictures.com）](https://betsymccuepictures.com/hair-and-makeup-boudoir-photos/) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.2
+- **#1527 成人向私房发型按“露出哪里＋配什么场景”选：侧拨大波浪露出颈侧和锁骨、松散低丸子拉长脖子露肩、凌乱床头发配被褥和晨光、复古好莱坞卷配复古服装或黑白、低髻配正式场景并突出背影与侧脸；碎发留在太阳穴附近，饰品只在耳边或发髻点一处** — [Hairslife](https://www.hairslife.com/blog/boudoir-hair-ideas) · 教程/文章 · 许可标注:未标注 · 次要子分类:4.7、10.2
 
 ### 10.2 发饰与首饰(2)
 
